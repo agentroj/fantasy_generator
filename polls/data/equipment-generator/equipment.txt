@@ -1,0 +1,1729 @@
+abaya
+anorak
+apparel
+apron
+ascot tie
+attire
+B
+balaclava
+ball gown
+bandanna
+baseball cap
+bathing suit
+battledress
+beanie
+bedclothes
+bell-bottoms
+belt
+beret
+Bermuda shorts
+bib
+bikini
+blazer
+bloomers
+blouse
+boa
+bonnet
+boot
+bow
+bow tie
+boxer shorts
+boxers
+bra
+bracelet
+brassiere
+breeches
+briefs
+buckle
+button
+button-down shirt
+C
+caftan
+camisole
+camouflage
+cap
+cap and gown
+cape
+capris
+cardigan
+C Cont.
+chemise
+cloak
+clogs
+clothes
+clothing
+coat
+collar
+corset
+costume
+coveralls
+cowboy boots
+cowboy hat
+cravat
+crown
+cuff
+cuff links
+culottes
+cummerbund
+D
+dashiki
+diaper
+dinner jacket
+dirndl
+drawers
+dress
+dress shirt
+duds
+dungarees
+E
+earmuffs
+earrings
+elastic
+evening gown
+F
+fashion
+fatigues
+fedora
+fez
+flak jacket
+flannel nightgown
+flannel shirt
+flip-flops
+formal wear
+frock
+fur
+fur coat
+G
+gaiters
+galoshes
+garb
+gabardine
+garment
+garters
+gear
+getup
+gilet
+girdle
+glasses
+gloves
+gown
+H
+halter top
+handbag
+handkerchief
+hat
+Hawaiian shirt
+hazmat suit
+headscarf
+helmet
+hem
+high heels
+hoodie
+hook and eye
+hose
+hosiery
+hospital gown
+houndstooth
+housecoat
+J
+jacket
+jeans
+jersey
+jewelry
+jodhpurs
+jumper
+jumpsuit
+K
+kerchief
+khakis
+kilt
+kimono
+kit
+knickers
+L
+lab coat
+lapel
+leather jacket
+leggings
+leg warmers
+leotard
+L Cont.
+life jacket
+lingerie
+loafers
+loincloth
+longjohns
+long underwear
+M
+miniskirt
+mittens
+moccasins
+muffler
+mumu
+N
+neckerchief
+necklace
+nightgown
+nightshirt
+O
+onesies
+outerwear
+outfit
+overalls
+overcoat
+overshirt
+P
+pajamas
+panama hat
+pants
+pantsuit
+pantyhose
+parka
+pea coat
+peplum
+petticoat
+pinafore
+pleat
+pocket
+pocketbook
+polo shirt
+poncho
+poodle skirt
+porkpie hat
+pullover
+pumps
+purse
+R
+raincoat
+ring
+robe
+rugby shirt
+S
+sandals
+sari
+sarong
+scarf
+school uniform
+scrubs
+shawl
+sheath dress
+shift
+shirt
+shoe
+shorts
+shoulder pads
+shrug
+singlet
+skirt
+slacks
+slip
+slippers
+smock
+snaps
+sneakers
+sock
+sombrero
+spacesuit
+Stetson hat
+stockings
+stole
+suit
+sunbonnet
+sundress
+sunglasses
+sun hat
+suspenders
+sweater
+sweatpants
+sweatshirt
+sweatsuit
+swimsuit
+T
+T-shirt
+tam
+tank top
+teddy
+threads
+tiara
+tie
+tie clip
+tights
+toga
+togs
+top
+T Cont.
+top coat
+top hat
+train
+trench coat
+trunks
+turtleneck
+tutu
+trench coat
+trousers
+trunks
+tube top
+tunic
+turban
+turtleneck shirt
+tux
+tuxedo
+tweed jacket
+twill
+twin set
+U
+umbrella
+underclothes
+undershirt
+underwear
+uniform
+V
+veil
+Velcro
+vest
+vestments
+visor
+W
+waders
+waistcoat
+wear
+wedding gown
+Wellingtons
+wetsuit
+white tie
+wig
+windbreaker
+woollens
+wrap
+Y
+yoke
+Z
+zipper
+zoris
+Actinium (Ac)
+Aluminum Americium (Am)
+Antimony (Sb)
+Argon (Ar)
+B
+Barium (Ba)
+Berkelium (Bk)
+Beryllium (Be)
+Bismuth (Bi)
+Bohrium (Bh)
+Boron (B)
+Bromine (Br)
+C
+Cadmium (Cd)
+Calcium (Ca)
+Californium (Cf)
+Carbon (C)
+Cerium (Ce)
+Cesium (Cs)
+Chlorine (Cl)
+Chromine (Cr)
+Cobalt (Co)
+Copper (Cu)
+Curium (Cm)
+D
+Darmstadtium (Ds)
+Dubnium (Db)
+Dysprosium (Dy)
+E
+Einsteinium (Es)
+Erbium (Er)
+Europium (Eu)
+F
+Fermuim (Fm)
+Fluorine (F)
+Francium (Fr)
+G
+Gadolinium (Gd)
+Gallium (Ga)
+Germanium (Ge)
+Gold (Au)
+H
+Hafnium (Hf)
+Hassium (Hs)
+Helium (He)
+Holmium (Ho)
+Hydrogen (H)
+I
+Indium (In)
+Iodine (I)
+Iridium (Ir)
+Iron (Fe)
+K
+Krypton (Kr)
+L
+Lanthanum (La)
+Lawrencium (Lr)
+Lead (Pb)
+Lithium (Li)
+Lutetium (Lu)
+M
+Magnesium (Mg)
+Manganese (Mn)
+Meitnerium (Mt)
+Mendelevium ()
+Mercury (Hg)
+Molybdenum (Mo)
+N
+Neodymium (Nd)
+Neon (Ne)
+Neptunium (Np)
+Nickel (Ni)
+Niobium (Nb)
+Nitrogen (N)
+Nobellium (No)
+O
+Osmium (Os)
+Oxygen (O)
+P
+Palladium (Pd)
+Phosphorus (P)
+Platinum (Pt)
+Plutonium (Pu)
+Polonium (Po)
+Potassium (K)
+Praseodymium (Pr)
+Promethium (Pm)
+Protactinium (Pa)
+R
+Radium (Ra)
+Radon (Rn)
+Rhenium (Re)
+Rhodium (Rh)
+Rubidium (Rh)
+Ruthenium (Ru)
+Rutherfordium (Rf)
+S
+Samarium (Sm)
+Scandium (Sc)
+Seaborgium (Sg)
+Selenium (Se)
+Silicon (Si)
+Silver (Ag)
+Sodium (Na)
+Strontium (Sr)
+Sulfur (S)
+T
+Tantalum (Ta)
+Technetium (Tc)
+Tellurium (Te)
+Terbium (Tb)
+Thallium (Tl)
+Thorium (Th)
+Thulium (Tm)
+Tin (Sn)
+Titanium (Ti)
+Tungsten (W)
+U
+Ununbium (Uub)
+Ununhexium (Uuh)
+Ununoctium (Uuo)
+Ununpentium (Uup)
+Ununquadium (Uuq)
+Ununseptium (Uus)
+Ununtrium (Uut)
+Ununium (Uuu)
+Uranium (U)
+V
+Vanadium (V)
+W
+Xenon (Xe)
+Y
+Ytterbium (Yb)
+Yttrium (Y)
+Z
+Zinc (Zn)
+Zirconium (Zr)
+A
+akubra
+alpine hat
+B
+balaclava
+balmoral
+baseball cap
+batting helmet
+beanie
+bearskin hat
+beret
+bicorne
+biretta	
+boater
+bonnet
+bowler
+C
+cap
+chapeau
+chef's hat
+cloche
+coonskin hat
+cowboy hat
+cricket helmet
+crown
+cycling helmet
+D
+deerstalker
+derby
+diving helmet
+dunce cap
+E
+engineer's cap
+equestrian helmet
+F
+fedora
+fez
+flat cap
+football helmet
+G
+glengarry
+H
+hat
+headdress
+helmet
+hard hat
+homburg
+J
+jester's hat
+Juliet cap
+K
+knit cap
+M
+miter
+mortarboard
+motocross helmet
+N
+nightcap
+P
+Panama hat
+pillbox hat
+pith helmet
+porkpie
+R
+rainhat
+riding cap
+S
+ski cap
+ski helmet
+skull cap
+snood
+sombrero
+space helmet
+stovepipe hat
+straw hat
+sun bonnet
+sun hat
+swim cap
+T
+tam
+tam o'shanter
+ten-gallon hat
+tiara
+top hat
+toque
+tricorne
+turban
+V
+Viking helmet
+visor
+W
+watch cap
+witch's hat
+Y
+yarmulke
+Z
+zucchetto
+academy
+admiral
+advance
+aircraft
+aircraft carrier
+Air Force
+ally
+ammo
+ammunition
+amphibious vehicle
+armistice
+armor
+armored vehicle
+armory
+arms
+army
+arrow
+arsenal
+artillery
+assault
+at ease
+attack
+attention
+B
+ballistic
+barracks
+base
+battalion
+battle
+battlefield
+battery
+battleship
+bayonet
+besiege
+billet
+bivouac
+bomb
+bombard
+bombardment
+bow and arrow
+brig
+brigade
+bullet
+C
+cadet
+camouflage
+camp
+cannon
+cannon ball
+canteen
+captain
+capture
+C cont.
+carrier
+casualty
+catapult
+cavalry
+chaplain
+coast guard
+colonel
+combat
+command
+commander
+commanding officer
+commission
+company
+conflict
+conquest
+conscription
+convoy
+corporal
+corps
+covert
+crew
+D
+decode
+defeat
+defend
+defense
+destroyer
+detonate
+division
+dog tags
+draft
+E
+encampment
+encode
+enemy
+engage
+enlist
+ensign
+epaulet
+evacuate
+explosive
+F
+field hospital
+field marshal
+fight
+fire
+fireteam
+fleet
+flotilla
+force
+front
+F cont.
+formation
+fort
+fortification
+furlough
+G
+garrison
+general
+Geneva Convention
+grenade
+grenade launcher
+grunt
+guerrilla
+gun
+gunner
+gunnery sergeant
+gunpowder
+H
+headquarters
+helmet
+honor
+hospital
+howitzer
+I
+infantry
+injury
+insignia
+intelligence
+invade
+invasion
+J
+jeep
+jet
+K
+kill
+L
+lance corporal
+leave
+lieutenant
+lose
+M
+machete
+major
+marines
+medal
+medic
+M cont.
+maneuver
+marksman
+mess hall
+MIA
+midshipman
+military
+mine
+missile
+mortar
+munition
+musket
+N
+national security
+navy
+neutral
+night-vision goggles
+O
+offense
+officer
+ordnance
+P
+parachute
+paratrooper
+peace
+peace treaty
+pentagon
+petty officer
+plane
+platoon
+post
+POW
+prisoner of war
+private
+PT boat
+Purple Heart
+Q
+quartermaster
+R
+radar
+rank
+reconnoiter
+recruit
+regiment
+rescue
+reserves
+retreat
+ribbon
+rifle
+rocket artillery
+S
+sabotage
+sailor
+salute
+salvo
+seaman
+section
+sergeant
+service
+shell
+shoot
+shot
+siege
+sniper
+soldier
+spear
+specialist
+squad
+squadron
+staff
+star
+stockade
+submarine
+surrender
+T
+tactical
+tactics
+tank
+task force
+theater
+tomahawk
+torpedo
+troops
+truce
+U
+uniform
+unit
+V
+veteran
+volley
+W
+war
+warfare
+warrant officer
+warrior
+weapon
+win
+wound
+Y
+yeoman
+Z
+Zulu time
+accordion
+acoustic guitar
+Aeolian harp
+Alphorn
+alto saxophone
+anvil
+B
+baby grand piano
+bagpipe
+balalaika
+bandoneón
+bandura
+banjo
+baritone horn
+bass
+bass clarinet
+bass drum
+bass guitar
+bassoon
+bell
+bongo drum
+bouzouki
+bow
+brass instruments
+bugle
+C
+calliope
+carillon
+castanets
+celesta
+cello
+Celtic harp
+chimes
+cimbalom
+clarinet
+classical guitar
+clavichord
+clavier
+concertina
+conch
+conga drum
+contrabass
+cornet
+cowbell
+cymbals
+D
+didgeridoo
+double bass
+drum
+drumsticks
+dulcimer
+E
+electric guitar
+electric organ
+English horn
+euphonium
+F
+fiddle
+fife
+flugelhorn
+flute
+French horn
+G
+glockenspiel
+gong
+grand piano
+guitar
+H
+hammered dulcimer
+harmonica
+harmonium
+harp
+harpsichord
+helicon
+horn
+hurdy gurdy
+I
+instrument
+J
+jaw harp
+Jew's harp
+K
+kazoo
+kettledrum
+keyboard
+L
+lute
+lyre
+M
+mallets
+mandolin
+maracas
+marimba
+mellophone
+melodeon
+moog synthesizer
+musical instruments
+musical saw
+mute
+O
+oboe
+ocarina
+organ
+P
+pan pipes
+penny whistle
+percussion
+piano
+piccolo
+pipa
+pipe organ
+player piano
+pump organ
+R
+rainstick
+rattle
+recorder
+reed
+S
+saw
+saxophone
+sitar
+slide whistle
+snare drum
+spinet
+spoons
+steel drum
+S cont.
+sousaphone
+steel drum
+steel guitar
+string bass
+string instruments
+strings
+synthesizer
+T
+tabla
+tambourine
+theramin
+thumb piano
+timpani
+tin whistle
+tom-tom drum
+triangle
+trombone
+trumpet
+tuba
+tubular bells
+U
+ukulele
+upright piano
+V
+valve
+vibraphone
+viola
+viola da gamba
+violin
+violincello
+vuvuzela
+W
+Wagner tuba
+washboard
+whistle
+wind chime
+wind instruments
+woodwind instruments
+X
+xylophone
+Z
+zither
+answer
+arithmetic
+assignment
+atlas
+B
+backpack
+ballpoint pen
+binder
+blackboard
+book
+bookcase
+bookmark
+C
+calculator
+calendar
+chalk
+chalk board
+class clown
+classroom
+clip board
+colored pencils
+compass
+composition book
+computer
+construction paper
+crayons
+D
+desk
+dictionary
+dividers
+dry-erase board
+E
+easel
+encyclopedia
+english
+eraser
+exam
+examination
+experiment
+F
+file folder
+flash cards
+folder
+G
+gel pen
+geography
+globe
+glossary
+glue
+gluestick
+grades
+gym
+H
+highlighter
+history
+hole punch
+homework
+I
+ink
+intelligent
+K
+keyboard
+L
+language
+laptop
+learn
+lesson
+library
+looseleaf paper
+lunch
+lunch box
+M
+map
+markers
+math
+mathematics
+mechanical pencil
+memo pad
+memorize
+mortar board
+N
+notebook
+P
+pad of paper
+paper
+paper clip
+paper punch
+paste
+pen
+pencil
+pencil pouch
+pencil sharpener
+physical education
+portfolio
+poster paint
+principal
+printer
+project
+protractor
+pupil
+push pin
+Q
+question
+quiz
+R
+reading
+recess
+rubber bands
+ruler
+S
+science
+scissors
+sharpener
+smart
+spiral notebook
+stapler
+staple remover
+student
+T
+tape
+teacher
+test
+thesaurus
+think
+thumb tack
+V
+vocabulary
+W
+watercolors
+whiteboard
+word problems
+word processor
+world map
+writing
+Y
+yardstick
+ankle boot
+army boots
+athletic shoes
+B
+ballet shoes
+beach shoes
+boat shoes
+boots
+bowling shoes
+brogues
+C
+cleats
+climbing shoes
+clogs
+court shoes
+cowboy boots
+cycling shoes
+D
+deck shoes
+dress shoes
+E
+elevator shoes
+espadrilles
+F
+figure skates
+flip-flops
+G
+galoshes
+golf shoes
+gumboots
+H
+heels
+high heels
+high-top sneakers
+hiking boots
+I
+ice skates
+inline skates
+J
+jackboots
+jump boots
+K
+kamiks
+L
+loafers
+M
+Mary Janes
+moccasins
+mukluks
+mules
+O
+open-toes shoes
+Oxfords
+P
+penny loafers
+platform shoes
+pointe shoes
+pumps
+R
+rainboots
+riding boots
+rollerblades
+rollerskates
+running shoes
+S
+saddle shoes
+sandals
+shoes
+skates
+skate shoes
+ski boots
+slides
+sling-backs
+slippers
+sneakers
+steel-toe boots
+stiletto heels
+swim fins
+T
+tap shoes
+tennis shoes
+toe shoes
+track shoes
+V
+valenki
+W
+waders
+wedge shoes
+Wellington boots
+wingtip shoes
+work boots
+Z
+zories
+aerobics
+archer
+archery
+arena
+arrow
+athlete
+athletics
+axel
+B
+badminton
+ball
+base
+baseball
+basketball
+bat
+baton
+batter
+batting
+biathlon
+bicycle
+bicycling
+bike
+biking
+billiards
+bobsleigh
+bocce
+boomerang
+boules
+bow
+bowler
+bowling
+boxer
+boxing
+bronze medal
+bunt
+C
+canoe
+canoeing
+catch
+catcher
+champion
+championship
+cleats
+club
+coach
+compete
+competing
+competition
+C cont.
+competitor
+crew
+cricket
+croquet
+cross country
+cue
+curling
+cycle
+cycling
+cyclist
+D
+dart
+dartboard
+deadlifting
+decathlon
+defense
+diamond
+discus
+dive
+diver
+diving
+dodgeball
+doubleheader
+dugout
+E
+epee
+equestrian
+equipment
+exercise
+F
+fencing
+field
+fielder
+field hockey
+fielding
+figure skating
+fitness
+football
+forward
+free throw
+frisbee
+G
+game
+gear
+geocaching
+go
+goal
+goalie
+gold medal
+G Cont.
+golf
+golfer
+golfing
+guard
+gym
+gymnast
+gymnastics
+gymnasium
+H
+halftime
+hammer throw
+handball
+hang gliding
+hardball
+helmet
+heptathlon
+high jump
+hitter
+hockey
+hole-in-one
+home
+home plate
+home run
+home team
+hoop
+horseshoes
+huddle
+hurdle
+I
+ice hockey
+ice rink
+ice skates
+ice skating
+infield
+infielder
+inline skates
+inning
+J
+jai-alai
+javelin
+jog
+jogger
+judo
+jump
+jumper
+jumping
+jump rope
+K
+karate
+kayak
+kayaker
+kayaking
+kickball
+kneepads
+king fu
+kite
+L
+lacrosse
+lawn bowling
+league
+long jump
+lose
+loser
+luge
+lutz
+M
+major league
+mallet
+martial arts
+mat
+medal
+minor league
+mitt
+mouthguard
+move
+movement
+MVP
+N
+net
+no-hitter
+Nordic skiing
+O
+offense
+ollie
+Olympics
+orienteering
+out
+outfield
+outfielder
+P
+paddle
+paddleball
+paddling
+paintball
+parasailing
+parkour
+P Cont.
+pentathlon
+pickleball
+ping pong
+pitch
+pitcher
+play
+player
+playing
+playoffs
+pogo stick
+pole
+pole vault
+polo
+pool
+puck
+Q
+quarter
+quarterback
+quiver
+R
+race
+racer
+racewalking
+racing
+racket
+racquetball
+rafting
+referee
+relay
+ride
+riding
+rink
+rock climbing
+roller skates
+roller skating
+row
+rower
+rowing
+rugby
+run
+runner
+running
+S
+sailing
+score
+scoreboard
+scuba
+scull
+S Cont.
+sculling
+shortstop
+shot put
+silver medal
+skate
+skating rink
+skeleton
+ski
+skier
+skiing
+slalom
+sled
+sledder
+sledding
+snorkling
+snowboard
+snowboarder
+snowboarding
+snowshoeing
+soccer
+softball
+somersault
+speed skating
+sport
+sportsmanship
+squash
+stadium
+stick
+strike
+stroke
+Sumo wrestling
+surfer
+surfing
+swim
+swimmer
+swimming
+synchronized swimming
+T
+table tennis
+taekwondo
+tag
+target
+team
+teammate
+tee
+telemark skiing
+tennis
+tetherball
+throw
+T Cont.
+throwing
+tie
+toboggan
+track and field
+trampoline
+triathlon
+triathlete
+triple jump
+triple play
+tug of war
+U
+ultramarathon
+ultramarathoner
+umpire
+unicycle
+unicyclist
+uniform
+V
+vault
+vaulter
+vaulting
+visiting team
+volley
+volley ball
+W
+wakeboarding
+walk
+walker
+walking
+water polo
+waterski
+waterskier
+waterskiing
+weightlifter
+weightlifting
+weights
+wetsuit
+white water rafting
+wicket
+win
+windsurfer
+windsurfing
+winner
+winning
+World Cup
+World Series
+wrestler
+wrestling
+adze
+allen wrench
+anvil
+axe
+B
+bellows
+bevel
+block and tackle
+block plane
+bolt
+bolt cutter
+brad
+brush
+C
+calipers
+carpenter
+chalk line
+chisel
+circular saw
+clamp
+clippers
+coping saw
+countersink
+crowbar
+cutters
+D
+drill
+drill bit
+drill press
+E
+edger
+electric drill
+F
+fastener
+G
+glass cutter
+glue
+glue gun
+grinder
+H
+hacksaw
+handsaw
+hex wrench
+hoe
+hammer
+hone
+J
+jig
+jigsaw
+K
+knife
+L
+ladder
+lathe
+level
+lever
+M
+machete
+mallet
+measuring tape
+miter box
+monkey wrench
+N
+nail
+nail set
+needle-nose pliers
+nut
+P
+Phillips screwdriver
+pickaxe
+pin
+pincer
+pitchfork
+plane
+pliers
+plow
+plumb bob
+poker
+pry bar
+pulley
+pinch
+pruning shears
+putty knife
+R
+rasp
+ratchet
+razor
+reamer
+rivet
+roller
+rope
+router
+ruler
+S
+safety glasses
+sander
+sand paper
+saw
+sawhorse
+scalpel
+scissors
+scraper
+S cont.
+screw
+screwdriver
+scythe
+sharpener
+shovel
+sickle
+snips
+spade
+spear
+sponge
+square
+squeegee
+staple
+stapler
+T
+tack
+tiller
+tongs
+toolbox
+toolmaker
+torch
+trowel
+U
+utility knife
+V
+vise
+W
+wedge
+wheel
+woodworker
+workbench
+wrench
+auto
+automobile
+B
+buggy
+C
+car
+cloth-top
+compact
+convertible
+coupe
+cruiser
+D
+dragster
+E
+electric car
+F
+four-door
+four-wheel drive
+G
+gas powered
+gas-electric
+H
+hard top
+hatchback
+hearse
+hot rod
+hum-vee
+hybrid
+jeep
+L
+limo
+limousine
+low-rider
+luxury car
+M
+minivan
+O
+off-road vehicle
+P
+patrol car
+R
+race car
+ragtop
+roadster
+rotary engine
+runabout
+RV
+S
+sedan
+soft-top
+solar powered
+sports car
+sports utility vehicle
+station wagon
+stock car
+stretch limo
+subcompact
+SUV
+T
+taxi
+taxi cab
+two-door
+V
+van

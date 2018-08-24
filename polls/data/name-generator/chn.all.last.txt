@@ -1,0 +1,482 @@
+Hê2
+Ho2
+Hê4
+Ho4
+Ding1
+Teng4
+Yi6
+Yik6 
+Lee
+Li
+Chow
+Chau
+Cho
+Tso
+Siu
+Shiu
+Poon
+Pun
+Yu
+Yue
+Shum
+Sum
+Sham
+Fu
+Foo
+Chau
+Chow
+Lung
+Loong
+To
+Tao
+Siu
+Shiu
+Cheong
+Chong
+Lao
+Lou
+Chun
+Chean
+Chin
+Yeong
+Ieong
+Young
+Wang
+Vong
+Chu
+Chio
+Jiu
+Jao
+ChauChao
+Choi
+Chui
+Tsua
+Mah
+Mar
+Woo
+Vu
+Kou
+Go
+Law
+Loh, Lowe
+Lor
+Cheang
+Chiang
+Leong
+Lang
+Leng
+Chang
+Dong
+Choy
+Tsoi
+Toy
+U
+Yee
+Do
+Tou
+Ip
+Yeap
+Iam
+Yum
+Sam
+Shum
+Yeow
+Io
+Iu
+Geung
+Keong
+Tom
+Ham
+Hom
+Sek
+Seac
+Seak
+Lew
+Leow
+Liew
+Lio
+Jao
+Chau
+Tseun
+Tseon Chon
+Iao
+Iau
+Goo
+Gu
+Khoo
+Shaw
+Sio
+Tiuⁿ (X, Q, K, T)
+Tioⁿ (Z)
+Iûⁿ (X, Q, K, T)
+Iôⁿ (Z)
+N̂g (X, Q, K, T)
+Ûiⁿ (Z)
+Tiō (X, Z, K, T)
+Tiǒ (Q)
+Gô͘
+Ngô͘ (X, Q, K, T)
+Chhî (X, Z, K, T)
+Sîr (Q)
+Sng (X, Q, K, T)
+Sun (X, Q, K, T)
+Suiⁿ (Z)
+Má
+Bé (K, T)
+Koeh (Z, K, T)
+Keh (X)
+Kerh (Q)
+Ko (X, Z, K, T)
+Ko͘ (Q)
+Tēⁿ (K)
+Tīⁿ (X, T)
+Tìⁿ (Q)
+Tēeⁿ (Z)
+Niû (X, Q, K, T)
+Niô͘ (Z)
+Chiā (Z, K)
+Siā (X, T)
+Sià (Q)
+Sòng
+Sàng (K, T)
+Tn̂g
+Tông (X, Z, K, T)
+Tēng (X, Z, K, T)
+Tèng (Q)
+Chô (X, Z, K, T)
+Chô͘ (Q)
+Phêⁿ (K)
+Phîⁿ (X, Q, T)
+Phêeⁿ (Z)
+Siau (X, Z, K, T)
+Sio (X, Q, K, T)
+Táng
+Tóng (Z)
+Î (Z)
+Û (X)
+U (Q, K, T)
+Chiúⁿ (X, Q, K, T)
+Chióⁿ (Z)
+Î (Z, K, T)
+Û (X, K, T)
+Îr (Q)
+Tō͘ (X, Z, K, T)
+Tǒ͘ (Q)
+Thiâⁿ (X, Q, K, T)
+Thêeⁿ (Z)
+Gūi (X, Z, K, T)
+Gùi (Q)
+Lū (X, T)
+Lī (Z, K)
+Lǐr (Q)
+Jîm (Z, K)
+Lîm (X, Q)
+Līm (T)
+Khiang (Z)
+Khiong (X, K, T)
+Khiuⁿ (Q)
+Chiong
+Cheng (K, T)
+Ong (X, Q, K, T)
+Óng (Z)
+Hoān (X, Z, K, T)
+Hoǎn (Q)Hwan
+Liāu (X, Z, K, T)
+Liàu (Q)
+Ká (X, Q, K, T)
+Kée (Z)
+Hē (K, T)
+Hā (X, K, T)
+Hà (Q)
+Hēe (Z)
+Ûi (X, Q, K, T)
+Úi (Z)
+Hong (X, Q, K, T)
+Png (X, Q, K, T)
+Puiⁿ (Z)
+Pe̍h
+Pe̍k (Z)
+Chau (K, T)
+Cho͘ (X, Z, K, T)
+Cho (Q)
+Che (Z)
+Bēng (X, Z, K, T)
+Bèng (Q)
+Ún (K, T)
+Ín (X, Q, Z)
+Toān (X, Z, K, T)
+Toàn (Q)
+Hô͘ (X, Z)
+Hâu (Q, K, T)
+Kâu (X, Q, Z)
+Lêng (K, T)
+Liông
+Sú (X, Z, K, T)
+Sái (X, Q)
+Sír (Q)
+Tô (X, Z, K, T)
+Tô͘ (Q)
+Thô (Q)
+Hō (X, Z, K, T)
+Hò (Q)
+Kéng (X, Q, K, T)
+Kiong (Z)
+Siō (X, K, T)
+Siāu (Z, K, T)
+Siàu (Q)
+Bān (X, Z, K, T)
+Bàn (Q)
+Tè (X, Z, K, T)
+Tèr (Q)
+Bo̍h (K, T)
+Bo̍k
+Hiòng (X, Q, K, T)
+Hiàng (Z)
+E̍k (X, Z, K, T)
+Ia̍k (Q)
+Siông (X, Q, K, T)
+Siâng (Z)
+Lōa (X, Z, K, T)
+Lòa (Q)
+Bong
+Heng
+Teo
+Teoh
+Tio
+Lau
+Low
+Lao
+Tan
+Tang
+Ting
+Yeoh
+Yeo
+Yo
+Nyo
+Ng
+Ung
+Uy
+Teo
+Teoh
+Chew
+Jew
+Chee
+Cher
+Cheu
+Swee
+Ji
+Jee
+Sng
+Soon
+Bey
+Beh
+Baey
+Oh
+Aw
+Kueh
+Koay
+Quay
+Kwek
+Quek
+Kwik
+Ho
+Hor
+Hou
+Ko
+Kor
+Lo
+Lor
+Law
+Tay
+Teh
+Chia
+Cheah
+Seah
+Tng
+Tang
+Koh
+Khoh
+Ko
+Hang
+Han
+Peh
+Phe
+Seow
+Siau
+Siow
+Chan
+Chang
+Cheoh
+Chioh
+Ee
+Eu
+Ngwee
+Ngui
+Lee
+Leu
+Ler
+Loo
+Chui
+Chwee
+Loke
+Lek
+Huang
+Hoan
+Hwan
+Chioh
+Cheoh
+Leow
+Liau
+Liow
+Hah
+Hay
+Chou
+Choh
+Un
+Eun
+Eung
+Tng
+Teung
+Hoh
+Hau
+Leng
+Liong
+Ser
+Seu
+Sze
+Loy
+Loi
+Seow
+Sioh
+Kong
+Khong
+Tng
+Teung
+Kang
+Khang
+Sioh
+Seoh
+Keow
+Kiao
+Kô
+Kau
+Fùng
+Phùng
+Tshò
+Tshàu
+Chhàng
+Chhìn
+Shím
+Sím
+Chûng
+Tsung
+Sha̍k
+Sak
+Vúi
+Vì
+Khiû
+Hiû
+Thàu
+Thò
+Lì
+Lài
+Ho
+Fo
+Mô
+Mâu
+Shau
+Sau
+Yong
+Yeong
+Wong
+Bong
+Chew
+Chiew
+Kwok
+Kok
+Law
+Lo
+Loh
+Song
+Soong
+Tong
+Thong
+Ten
+Then
+Cho
+Chaw
+Siew
+Siaw
+Thien
+Then
+Pan
+Phan
+Chai
+Choi
+To
+Toh
+Chang
+Chin
+Ngui
+Wee
+Ngim
+Yim
+Chong
+Chung
+Fam
+Hoan
+Hwan
+Liew
+Liau
+Wooi
+Wee
+Pak
+Phak
+Chew
+Chiew
+Hew
+Khew
+Ngiam
+Yam
+Ton
+Thon
+Looi
+Lui
+Soo
+Sze
+Tao
+Tow
+Lee
+Lai
+Mo
+Mao
+Wan
+Man
+Moo
+Woo
+Koong
+Khoong
+Thong
+Tong
+Khong
+Kong
+Kiew
+Khiew
+Cheong
+Thong
+Lew 
+Lieu
+Thin
+Chin
+Wong
+Fong
+Cheu
+Chew
+Chew
+Cheu
+Chee
+Chui
+Wu
+Foo
+Lō
+Law

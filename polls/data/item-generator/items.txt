@@ -1,0 +1,5662 @@
+albedo
+Alpha Centauri
+apastron
+aperature
+aphelion
+apogee
+asterism
+asteroid
+astronaut
+astronomer
+astronomical unit
+astronomy
+axial tilt
+azimuth
+B
+background radiation
+Bailey's beads
+big bang theory
+binary star
+black body
+black hole
+bolometer
+C
+celestial
+celestial equator
+cislunar
+cluster
+comet
+conjunction
+constellation
+coriolis force
+cosmic rays
+corona
+cosmology
+cosmonaut
+cosmos
+crater
+crescent moon
+D
+dark matter
+day
+declination
+deep space
+Deneb
+density
+docking
+Doppler shift
+double star
+Drake equation
+dust
+dwarf planet
+dwarf star
+E
+Earth
+earthbound
+eccentricity
+eclipse
+ecliptic
+elliptical orbit
+equinox
+escape velocity
+event horizon
+exoplanet
+extragalaxtic
+F
+falling star
+flare
+flyby
+free fall
+full moon
+G
+galaxy
+gamma ray
+gas giant
+gegenschein
+geostationary
+geosynchronous
+gibbous moon
+globular cluster
+gravitation
+gravitational constant
+gravitational lens
+gravity
+H
+half moon
+heliocentric
+hydrogen
+helium
+H-R diagram
+Hubble telescope
+Hubble's law
+hyperbolic orbit
+hypernova
+I
+ice giant
+inclination
+inertia
+inferior planets
+inner planets
+interstellar
+interstellar dust
+ionosphere
+J
+Jupiter
+K
+Kepler's laws
+kiloparsec
+Kirkwood gaps
+Kuiper belt
+L
+Lagrange points
+lens
+light-year
+local arm
+local group
+lunar
+M
+magnitude
+mare
+Mars
+mass
+Mercury
+meteor
+meteor shower
+meteorite
+meteoroid
+Milky Way
+minor planet
+Mir
+moon
+muttnik
+N
+nadir
+NASA
+nebula
+Neptune
+neutron star
+new moon
+north star
+nova
+O
+observatory
+occultation
+Oort cloud
+opposition
+orbit
+orbital eccentricity
+orbital inclination
+outer planets
+P
+parallax
+parsec
+partial eclipse
+penumbra
+perigee
+perihelion
+perturbation
+phase
+plane of the ecliptic
+planet
+planetary nebula
+planetoid
+Pluto
+pole star
+precession
+probe
+pulsar
+Q
+quarter moon
+quasar
+R
+radiant
+radiation
+red dwarf
+red giant star
+red shift
+revolve
+right ascension
+rings
+Roche limit
+rocket
+S
+satellite
+Saturn
+scientific notation
+scintillation
+shooting star
+solar
+sidereal
+singularity
+sky
+solar
+solar system
+solar wind
+solstice
+space
+space exploration
+space station
+spectroscope
+S cont.
+spectrum
+Sputnik
+star
+starlight
+sun
+sunspot
+superior planets
+supernova
+synodic
+syzygy
+T
+telemetry
+telescope
+terminator
+terrestrial
+total eclipse
+totality
+transit
+translunar
+transneptunians
+twinkling
+U
+umbra
+universe
+Uranus
+V
+vacuum
+Van Allen belt
+variable star
+Venus
+vernal equinox
+visual magnitude
+W
+waning
+wavelength
+waxing
+weightlessness
+white dwarf
+white giant
+wormhole
+X
+x-rays
+y
+yellow dwarf
+Z
+zenith
+zodiac
+abdomen
+Adam's apple
+adenoids
+adrenal gland
+anatomy
+ankle
+anus
+appendix
+arch
+arm
+artery
+B
+back
+ball of the foot
+belly
+belly button
+big toe
+bladder
+blood
+blood vessels
+body
+bone
+brain
+breast
+buttocks
+C
+calf
+capillary
+carpal
+cartilage
+cell
+cervical vertebrae
+cheek
+chest
+chin
+circulatory system
+clavicle
+coccyx
+collar bone
+D
+diaphragm
+digestive system
+E
+ear
+ear lobe
+elbow
+E cont.
+endocrine system
+esophagus
+eye
+eyebrow
+eyelashes
+eyelid
+F
+face
+fallopian tubes
+feet
+femur
+fibula
+filling
+finger
+fingernail
+follicle
+foot
+forehead
+G
+gallbladder
+glands
+groin
+gums
+H
+hair
+hand
+head
+heart
+heel
+hip
+humerus
+I
+immune system
+instep
+index finger
+intestines
+iris
+J
+jaw
+K
+kidney
+knee
+L
+larynx
+leg
+ligament
+lip
+liver
+lobe
+lumbar vertebrae
+lungs
+lymph node
+M
+mandible
+metacarpal
+metatarsal
+molar
+mouth
+muscle
+N
+nail
+navel
+neck
+nerves
+nipple
+nose
+nostril
+O
+organs
+ovary
+P
+palm
+pancreas
+patella
+pelvis
+phalanges
+pharynx
+pinky
+pituitary
+pore
+pupil
+R
+radius
+rectum
+red blood cells
+respiratory system
+ribs
+S
+sacrum
+scalp
+scapula
+senses
+shin
+shoulder
+shoulder blade
+skeleton
+skin
+skull
+sole
+spinal column
+spinal cord
+spine
+spleen
+sternum
+stomach
+T
+tarsal
+teeth
+tendon
+testes
+thigh
+thorax
+throat
+thumb
+thyroid
+tibia
+tissue
+toe
+toenail
+tongue
+tonsils
+tooth
+torso
+trachea
+U
+ulna
+ureter
+urethra
+urinary system
+uterus
+uvula
+V
+vein
+vertebra
+W
+waist
+white blood cells
+wrist
+accelerator
+airbag
+air conditioner
+air conditioning
+air filter
+air vent
+alarm
+all-wheel drive
+alternator
+antenna
+anti-lock brakes
+armrest
+auto
+automatic transmission
+automobile
+axle
+B
+baby car seat
+baby seat
+back-up lights
+battery
+bench seat
+bonnet
+brake light
+brake pedal
+brakes
+bucket seat
+bumper
+C
+camshaft
+car
+carburetor
+catalytic converter
+chassis
+child car seat
+chrome trim
+clutch
+computer
+console
+cooling system
+crankshaft
+cruise control
+cylinder
+D
+dashboard
+defroster
+diesel engine
+dip stick
+differential
+door
+door handle
+drive belt
+drive shaft
+driver's seat
+E
+emergency brake
+emergency lights
+emissions
+engine
+engine block
+exhaust pipe
+exhaust system
+F
+fan belt
+fender
+filter
+floor mat
+fog light
+four-wheel drive
+frame
+fuel
+fuel cap
+fuel gauge
+fuse
+G
+gas
+gasket
+gas pedal
+gas gauge
+gasoline
+gas tank
+gauge
+gearbox
+gear shift
+gear stick
+glove compartment
+GPS
+grille
+H
+hand brake
+headlamp
+headlight
+headrest
+heater
+high-beam headlights
+hood
+horn
+hubcap
+hybrid
+I
+ignition
+instrument panel
+interior light
+internal combustion engine
+J
+jack
+K
+key
+L
+license plate
+lights
+lock
+low-beam headlights
+lug bolt
+lug nut
+M
+manifold
+manual transmission
+mat
+mirror
+moon roof
+motor
+mud flap
+muffler
+N
+navigation system
+O
+odometer
+oil
+oil filter
+oil tank
+P
+parking brake
+parking lights
+passenger seat
+pedal
+piston
+power brakes
+power steering
+power window switch
+R
+radiator
+radio
+rag top
+rear-view mirror
+rear window defroster
+reverse light
+rims
+roof
+roof rack
+rotary engine
+S
+seat
+seat belt
+shift
+shock absorber
+side airbags
+side mirror
+spare tire
+spark plug
+speaker
+speedometer
+spoiler
+starter
+steering column
+steering wheel
+sunroof
+sun visor
+suspension
+T
+tachometer
+tailgate
+temperature gauge
+thermometer
+tire
+trailer hitch
+transmission
+trim
+trip computer
+trunk
+turbo charger
+turn signal
+U
+undercarriage
+unleaded gas
+V
+valve
+vents
+visor
+W
+warning light
+wheel
+wheel well
+window
+windshield
+windshield wiper
+amphora
+attaché case
+B
+backpack
+bag
+baggage
+barrel
+basin
+basket
+beaker
+bin
+bottle
+bowl
+box
+briefcase
+bucket
+C
+cabinet
+can
+canister
+canteen
+carafe
+carrier
+carryall
+carton
+case
+cask
+casket
+chest
+coffer
+cone
+container
+compote
+cooler
+crate
+crock
+cruet
+cube
+D
+depository
+dish
+drawer
+drum
+E
+enclosure
+envelope
+ewer
+F
+file folder
+flask
+folder
+G
+garbage can
+glass
+goblet
+grocery bag
+H
+hamper
+handbag
+holder
+hopper
+hutch
+I
+ice bucket
+J
+jar
+jug
+K
+knapsack
+L
+locker
+luggage
+lunchbox
+M
+milk crate
+P
+packet
+pail
+pan
+paper bag
+plastic bag
+plate
+pocket
+pod
+pot
+pouch
+purse
+R
+rack
+receptacle
+S
+sack
+saddlebag
+satchel
+saucer
+stein
+suitcase
+T
+tin
+tote
+trash bin
+trunk
+tray
+tub
+tube
+tun
+tureen
+test tube
+U
+urn
+V
+vase
+vat
+vault
+vesicle
+vessel
+vial
+W
+wastebasket
+water bottle
+aerate
+age
+B
+bake
+barbecue
+baste
+batter
+beat
+bind
+blacken
+blanche
+blend
+boil
+bone
+braise
+bread
+brew
+broil
+brown
+brush
+burn
+butterfly
+C
+can
+caramelize
+char
+char-broil
+chill
+chop
+chunk
+churn
+clarify
+coddle
+combine
+cool
+congeal
+core
+cream
+cured
+cut
+D
+debone
+decorate
+deep fry
+deglaze
+descale
+devil
+dice
+dip
+dough
+drain
+drizzle
+dry
+E
+escallop
+F
+ferment
+fillet
+filter
+flambe
+flavor
+flip
+fold
+freeze
+French fry
+fricassee
+frost
+froth
+fry
+G
+garnish
+gel
+glaze
+grate
+gratin
+grease
+grill
+grind
+H
+hard boil
+harden
+hash
+heat
+hull
+I
+ice
+infuse
+J
+jell
+juice
+julienne
+K
+knead
+L
+layer
+leaven
+M
+macerate
+marinate
+mash
+measure
+melt
+microwave
+mix
+mold
+O
+oil
+oven fry
+overcook
+P
+pan fry
+parboil
+pare
+peel
+percolate
+pickle
+pit
+poach
+pop
+pour
+precook
+prepare
+preserve
+press
+P cont.
+pressure-cook
+process
+pulp
+puree
+Q
+quarter
+R
+raw
+reduce
+refrigerate
+render
+rise
+roast
+roll
+rub
+S
+salt
+saute
+scald
+scallop
+schirr
+scoop
+score
+scramble
+sear
+season
+separate
+serve
+shell
+shred
+shuck
+sieve
+sift
+simmer
+skewer
+skim
+skin
+slice
+sliver
+slow cook
+smoke
+S cont.
+snip
+soak
+soft boil
+souse
+sprinkle
+steam
+steep
+stew
+stir
+stir fry
+strain
+stuff
+sweat
+sweeten
+T
+temper
+tenderize
+thicken
+thin
+toast
+top
+toss
+trim
+truss
+turn
+U
+uncured
+unmold
+W
+warm
+wash
+wedge
+whip
+whisk
+Z
+zap
+zest
+apron
+B
+baking pan
+baking sheet
+barbecue grill
+baster
+basting brush
+blender
+bread basket
+bread knife
+bundt pan
+butcher block
+C
+cake pan
+can opener
+carafe
+casserole pan
+charcoal grill
+cheese cloth
+coffee maker
+coffee pot
+colander
+convection oven
+cookbook
+cookie cutter
+cookie press
+cookie sheet
+cooling rack
+corer
+crepe pan
+crock
+crock pot
+cupcake pan
+custard cup
+cutlery
+cutting board
+D
+Dutch oven
+E
+egg beater
+egg poacher
+egg timer
+espresso machine
+F
+fondue pot
+food processor
+fork
+frying pan
+G
+garlic press
+gelatine mold
+grater
+griddle
+grill pan
+grinder
+H
+hamburger press
+hand mixer
+honey pot
+I
+ice bucket
+ice cream scoop
+icing spatula
+infuser
+J
+jar opener
+jellyroll pan
+juicer
+K
+kettle
+knife
+L
+ladle
+lasagne pan
+lid
+M
+mandolin
+measuring cup
+measuring spoon
+microwave oven
+mixing bowl
+mold
+mortar and pestle
+muffin pan
+N
+nut cracker
+O
+oven
+oven mitts
+P
+pan
+parchment paper
+paring knife
+pastry bag
+peeler
+pepper mill
+percolator
+pie pan
+pitcher
+pizza cutter
+pizza stone
+platter
+poacher
+popcorn popper
+pot
+pot holder
+poultry shears
+pressure cooker
+Q
+quiche pan
+R
+raclette grill
+ramekin
+refrigerator
+rice cooker
+ricer
+roaster
+roasting pan
+rolling pin
+S
+salad bowl
+salad spinner
+salt shaker
+sauce pan
+scissors
+sharpening steel
+shears
+sieve
+skewer
+skillet
+slicer
+slow cooker
+souffle dish
+spice rack
+spoon
+steak knife
+steamer
+stockpot
+stove
+strainer
+T
+tablespoon
+tart pan
+tea infuser
+teakettle
+teaspoon
+thermometer
+toaster
+toaster oven
+tongs
+trivet
+U
+utensils
+V
+vegetable bin
+vegetable peeler
+W
+waffle iron
+water filter
+whisk
+wok
+Y
+yogurt maker
+Z
+zester
+almond cookie
+ambrosia
+angelfood cake
+apple brown Betty
+apple crisp
+apple pie
+B
+baked Alaska
+baked apple
+baklava
+banana split
+Belgian waffle
+biscotti
+black forest cake
+blueberry muffin
+bombe
+Boston cream pie
+bread pudding
+brownie
+buttercream frosting
+butterscotch
+C
+cake
+cannoli
+caramel apple
+carrot cake
+cheesecake
+cherry pie
+chocolate bar
+chocolate cake
+chocolate chip cookie
+chocolate mousse
+churro
+cinnamon roll
+cobbler
+coconut cake
+coconut cream pie
+coffee cake
+cookie
+crepe Suzette
+cupcake
+custard
+D
+Danish pastry
+dessert
+devil's food cake
+doughnut
+dumplings
+E
+eclair
+F
+flan
+fortune cookie
+French toast
+fritter
+frosting
+frozen yogurt
+fruit cake
+fruit cocktail
+fruit salad
+fudge
+G
+gelatin
+gelato
+gingersnaps
+gingerbread
+H
+honey
+hot-fudge sundae
+I
+ice cream
+ice cream cake
+icing
+J
+jam
+jelly
+jellyroll
+K
+Key lime pie
+L
+ladyfingers
+lemon bars
+lemon meringue pie
+M
+macaroon
+marshmallow
+meringue
+milkshake
+molasses
+mousse
+muffin
+N
+neapolitan ice cream
+nougat
+nut brittle
+O
+oatmeal cookie
+P
+pancakes
+panna cotta
+parfait
+pastry
+peanut brittle
+peanutbutter cookie
+pecan pie
+pie
+poached pears
+popcicle
+popover
+pound cake
+praline
+pudding
+pumpkin pie
+Q
+quick bread
+R
+red velvet cake
+rhubarb pie
+raisin bread
+rice pudding
+S
+scone
+sherbet
+shortbread
+s'mores
+snickerdoodle
+soda
+soda bread
+sorbet
+souffle
+sponge cake
+spumoni
+strawberry shortcake
+strudel
+sugar
+sugar cookie
+sundae
+sweet potato pie
+sweet roll
+sweets
+T
+tapioca pudding
+tart
+toasted marshmallow
+toffee
+torte
+trifle
+truffle
+turnover
+U
+upside-down cake
+V
+vanilla cream pie
+vanilla pudding
+W
+waffle
+watermelon ice
+Y
+yellow cake
+Z
+zabiglone
+Actinium (Ac)
+Aluminum Americium (Am)
+Antimony (Sb)
+Argon (Ar)
+B
+Barium (Ba)
+Berkelium (Bk)
+Beryllium (Be)
+Bismuth (Bi)
+Bohrium (Bh)
+Boron (B)
+Bromine (Br)
+C
+Cadmium (Cd)
+Calcium (Ca)
+Californium (Cf)
+Carbon (C)
+Cerium (Ce)
+Cesium (Cs)
+Chlorine (Cl)
+Chromine (Cr)
+Cobalt (Co)
+Copper (Cu)
+Curium (Cm)
+D
+Darmstadtium (Ds)
+Dubnium (Db)
+Dysprosium (Dy)
+E
+Einsteinium (Es)
+Erbium (Er)
+Europium (Eu)
+F
+Fermuim (Fm)
+Fluorine (F)
+Francium (Fr)
+G
+Gadolinium (Gd)
+Gallium (Ga)
+Germanium (Ge)
+Gold (Au)
+H
+Hafnium (Hf)
+Hassium (Hs)
+Helium (He)
+Holmium (Ho)
+Hydrogen (H)
+I
+Indium (In)
+Iodine (I)
+Iridium (Ir)
+Iron (Fe)
+K
+Krypton (Kr)
+L
+Lanthanum (La)
+Lawrencium (Lr)
+Lead (Pb)
+Lithium (Li)
+Lutetium (Lu)
+M
+Magnesium (Mg)
+Manganese (Mn)
+Meitnerium (Mt)
+Mendelevium ()
+Mercury (Hg)
+Molybdenum (Mo)
+N
+Neodymium (Nd)
+Neon (Ne)
+Neptunium (Np)
+Nickel (Ni)
+Niobium (Nb)
+Nitrogen (N)
+Nobellium (No)
+O
+Osmium (Os)
+Oxygen (O)
+P
+Palladium (Pd)
+Phosphorus (P)
+Platinum (Pt)
+Plutonium (Pu)
+Polonium (Po)
+Potassium (K)
+Praseodymium (Pr)
+Promethium (Pm)
+Protactinium (Pa)
+R
+Radium (Ra)
+Radon (Rn)
+Rhenium (Re)
+Rhodium (Rh)
+Rubidium (Rh)
+Ruthenium (Ru)
+Rutherfordium (Rf)
+S
+Samarium (Sm)
+Scandium (Sc)
+Seaborgium (Sg)
+Selenium (Se)
+Silicon (Si)
+Silver (Ag)
+Sodium (Na)
+Strontium (Sr)
+Sulfur (S)
+T
+Tantalum (Ta)
+Technetium (Tc)
+Tellurium (Te)
+Terbium (Tb)
+Thallium (Tl)
+Thorium (Th)
+Thulium (Tm)
+Tin (Sn)
+Titanium (Ti)
+Tungsten (W)
+U
+Ununbium (Uub)
+Ununhexium (Uuh)
+Ununoctium (Uuo)
+Ununpentium (Uup)
+Ununquadium (Uuq)
+Ununseptium (Uus)
+Ununtrium (Uut)
+Ununium (Uuu)
+Uranium (U)
+V
+Vanadium (V)
+W
+Xenon (Xe)
+Y
+Ytterbium (Yb)
+Yttrium (Y)
+Z
+Zinc (Zn)
+Zirconium (Zr)
+anemone
+apple blossom
+aster
+azalea
+B
+baby's breath
+bachelor button
+begonia
+bellflower
+bells of Ireland
+bitterroot
+black-eyed Susan
+bluebells
+bluebonnet
+bougainvillea
+bouquet
+buttercup
+butterfly bush
+C
+California poppy
+calendula
+calla lily
+camellia
+candytuft
+canna
+carnation
+carrion flower
+chicory
+chrysanthemum
+clover
+columbine
+cornflower
+corpse flower
+cosmo
+crocus
+D
+daffodil
+dahlia
+daisy
+dandelion
+delphinium
+dianthus
+dogwood
+E
+edelweiss
+F
+floret
+florist
+flower
+forget-me-not
+foxglove
+freesia
+G
+gardenia
+gerbera daisy
+gillyflower
+gladiolus
+goldenrod
+H
+hawthorn
+heather
+hibiscus
+hollyhock
+honeysuckle
+hydrangea
+I
+Indian blanket
+iris
+J
+jasmine
+jessamine
+Johnny-jump-up
+jonquil
+K
+kangaroo paw
+L
+lady's slipper
+lantana
+larkspur
+laurel
+lavender
+lilac
+lily
+lily-of-the-valley
+M
+magnolia
+mallow
+marigold
+mayflower
+mimosa
+mistletoe
+mock orange
+morning glory
+mountain laurel
+myrtle
+N
+narcissus
+nasturtium
+O
+oleander
+orange blossom
+orchid
+P
+pansy
+pasque flower
+passionflower
+peach blossom
+peony
+petal
+phlox
+plumeria
+poinsettia
+poppy
+primrose
+pussy willow
+Q
+Queen Anne's lace
+R
+ranunculus
+rhododendron
+rose
+S
+safflower
+sego lily
+sepal
+snapdragon
+stock
+sunflower
+sweet pea
+T
+thistle
+tickseed
+tiger lily
+trillium
+tulip
+V
+Venus flytrap
+veronica
+vetch
+violet
+W
+wallflower
+wildflowers
+wild prairie rose
+wisteria
+wolfsbane
+Y
+yucca flower
+Z
+zinnia
+
+acorn squash
+alfalfa sprouts
+almond
+anchovy
+anise
+appetizer
+appetite
+apple
+apricot
+artichoke
+asparagus
+aspic
+ate
+avocado
+
+B
+bacon
+bagel
+bake
+baked Alaska
+bamboo shoots
+banana
+barbecue
+barley
+basil
+batter
+beancurd
+beans
+beef
+beet
+bell pepper
+berry
+biscuit
+bitter
+black beans
+blackberry
+black-eyed peas
+black tea
+bland
+blood orange
+blueberry
+boil
+bowl
+boysenberry
+bran
+bread
+breadfruit
+breakfast
+brisket
+broccoli
+broil
+brownie
+brown rice
+brunch
+Brussels sprouts
+buckwheat
+buns
+burrito
+butter
+butter bean
+
+C
+cake
+calorie
+candy
+candy apple
+cantaloupe
+capers
+caramel
+caramel apple
+carbohydrate
+carrot
+cashew
+cassava
+casserole
+cater
+cauliflower
+caviar
+cayenne pepper
+celery
+cereal
+chard
+cheddar
+cheese
+cheesecake
+chef
+cherry
+chew
+chicken
+chick peas
+chili
+chips
+chives
+chocolate
+chopsticks
+chow
+chutney
+cilantro
+cinnamon
+citron
+citrus
+clam
+cloves
+cobbler
+coconut
+cod
+coffee
+coleslaw
+collard greens
+comestibles
+cook
+cookbook
+cookie
+corn
+cornflakes
+cornmeal
+cottage cheese
+crab
+crackers
+cranberry
+cream
+cream cheese
+crepe
+crisp
+crunch
+crust
+cucumber
+cuisine
+cupboard
+cupcake
+curds
+currants
+curry
+custard
+
+D
+daikon
+daily bread
+dairy
+dandelion greens
+Danish pastry
+dates
+dessert
+diet
+digest
+digestive system
+dill
+dine
+diner
+dinner
+dip
+dish
+dough
+doughnut
+dragonfruit
+dressing
+dried
+drink
+dry
+durian
+
+E
+eat
+Edam cheese
+edible
+egg
+eggplant
+elderberry
+endive
+entree
+
+F
+fast
+fat
+fava bans
+feast
+fed
+feed
+fennel
+fig
+fillet
+fire
+fish
+flan
+flax
+flour
+food
+food pyramid
+foodstuffs
+fork
+freezer
+French fries
+fried
+fritter
+frosting
+fruit
+fry
+
+G
+garlic
+gastronomy
+gelatin
+ginger
+gingerale
+gingerbread
+glasses
+Gouda cheese
+grain
+granola
+grape
+grapefruit
+grated
+gravy
+greenbean
+greens
+green tea
+grub
+guacamole
+guava
+gyro
+
+H
+herbs
+halibut
+ham
+hamburger
+hash
+hazelnut
+herbs
+honey
+honeydew
+horseradish
+hot
+hot dog
+hot sauce
+hummus
+hunger
+hungry
+
+I
+ice
+iceberg lettuce
+iced tea
+icing
+ice cream
+ice cream cone
+
+J
+jackfruit
+jalapeno
+jam
+jelly
+jellybeans
+jicama
+jimmies
+Jordan almonds
+jug
+julienne
+juice
+junk food
+
+K
+kale
+kebab
+ketchup
+kettle
+kettle corn
+kidney beans
+kitchen
+kiwi
+knife
+kohlrabi
+kumquat
+
+L
+ladle
+lamb
+lard
+lasagna
+legumes
+lemon
+lemonade
+lentils
+lettuce
+licorice
+lima beans
+lime
+liver
+loaf
+lobster
+lollipop
+loquat
+lox
+lunch
+lunch box
+lunchmeat
+lychee
+
+M
+macaroni
+macaroon
+main course
+maize
+mandarin orange
+mango
+maple syrup
+margarine
+marionberry
+marmalade
+marshmallow
+mashed potatoes
+mayonnaise
+meat
+meatball
+meatloaf
+melon
+menu
+meringue
+micronutrient
+milk
+milkshake
+millet
+mincemeat
+minerals
+mint
+mints
+mochi
+molasses
+mole sauce
+mozzarella
+muffin
+mug
+munch
+mushroom
+mussels
+mustard
+mustard greens
+mutton
+
+N
+napkin
+nectar
+nectarine
+nibble
+noodles
+nosh
+nourish
+nourishment
+nut
+nutmeg
+nutrient
+nutrition
+nutritious
+
+O
+oats
+oatmeal
+oil
+okra
+oleo
+olive
+omelet
+omnivore
+onion
+orange
+order
+oregano
+oven
+oyster
+
+P
+pan
+pancake
+papaya
+parsley
+parsnip
+pasta
+pastry
+pate
+patty
+pattypan squash
+peach
+peanut
+peanut butter
+pea
+pear
+pecan
+peapod
+pepper
+pepperoni
+persimmon
+pickle
+picnic
+pie
+pilaf
+pineapple
+pita bread
+pitcher
+pizza
+plate
+platter
+plum
+poached
+pomegranate
+pomelo
+pop
+popsicle
+popcorn
+popovers
+pork
+pork chops
+pot
+potato
+pot roast
+preserves
+pretzel
+prime rib
+protein
+provisions
+prune
+pudding
+pumpernickel
+pumpkin
+punch
+
+Q
+quiche
+quinoa
+
+R
+radish
+raisin
+raspberry
+rations
+ravioli
+recipe
+refreshments
+refrigerator
+relish
+restaurant
+rhubarb
+ribs
+rice
+roast
+roll
+rolling pin
+romaine
+rosemary
+rye
+
+S
+saffron
+sage
+salad
+salami
+salmon
+salsa
+salt
+sandwich
+sauce
+sauerkraut
+sausage
+savory
+scallops
+scrambled
+seaweed
+seeds
+sesame seed
+shallots
+sherbet
+shish kebab
+shrimp
+slaw
+slice
+smoked
+snack
+soda
+soda bread
+sole
+sorbet
+sorghum
+sorrel
+soup
+sour
+sour cream
+soy
+soybeans
+soysauce
+spaghetti
+spareribs
+spatula
+spices
+spicy
+spinach
+split peas
+spoon
+spork
+sprinkles
+sprouts
+spuds
+squash
+squid
+steak
+stew
+stir-fry
+stomach
+stove
+straw
+strawberry
+string bean
+stringy
+strudel
+sub sandwich
+submarine sandwich
+succotash
+suet
+sugar
+summer squash
+sundae
+sunflower
+supper
+sushi
+sustenance
+sweet
+sweet potato
+Swiss chard
+syrup
+
+T
+taco
+take-out
+tamale
+tangerine
+tapioca
+taro
+tarragon
+tart
+tea
+teapot
+teriyaki
+thyme
+toast
+toaster
+toffee
+tofu
+tomatillo
+tomato
+torte
+tortilla
+tuber
+tuna
+turkey
+turmeric
+turnip
+
+U
+ugli fruit
+unleavened
+utensils
+
+V
+vanilla
+veal
+vegetable
+venison
+vinegar
+vitamin
+
+W
+wafer
+waffle
+walnut
+wasabi
+water
+water chestnut
+watercress
+watermelon
+wheat
+whey
+whipped cream
+wok
+
+Y
+yam
+yeast
+yogurt
+yolk
+
+Z
+zucchini
+apple
+apricot
+avocado
+B
+banana
+berry
+blackberry
+blood orange
+blueberry
+boysenberry
+breadfruit
+C
+cantaloupe
+cherry
+citron
+citrus
+coconut
+crabapple
+cranberry
+current
+D
+date
+dragonfruit
+durian
+E
+elderberry
+F
+fig
+G
+grape
+grapefruit
+guava
+H
+honeydew
+J
+jackfruit
+K
+kiwi
+kumquat
+L
+lemon
+lime
+lingonberry
+loquat
+lychee
+M
+mandarin orange
+mango
+marionberry
+melon
+mulberry
+N
+nectarine
+O
+orange
+P
+papaya
+passion fruit
+peach
+pear
+persimmon
+pineapple
+plantain
+plum
+pluot
+pomegranite
+pomelo
+prune
+Q
+quince
+R
+raisin
+raspberry
+S
+star fruit
+strawberry
+T
+tangelo
+tangerine
+U
+ugli fruit
+W
+watermelon
+armchair
+armoire
+B
+bar stool
+bassinet
+beach chair
+bean bag chair
+bed
+bed table
+bench
+bentwood rocker
+bergere
+bookcase
+bookshelf
+breakfront
+buffet
+bunk bed
+bureau
+C
+cabinet
+canopy bed
+captain's chair
+card table
+carpet
+cart
+chair
+chaise lounge
+chandelier
+chest
+chest of drawers
+china cabinet
+clothes valet
+club chair
+coffee table
+console
+cot
+couch
+cradle
+credenza
+crib
+cubbies
+cupboard
+curio
+curtains
+cushion
+D
+deck chair
+desk
+desk chair
+dining room table
+director's chair
+display cabinet
+divan
+drapery
+drapes
+dresser
+E
+easel
+easy chair
+end table
+F
+fateuil
+file cabinet
+folding chair
+folding screen
+footrest
+footstool
+four-poster bed
+furnishings
+furniture
+futon
+G
+game table
+garden bench
+gateleg table
+glider rocker
+grandfather clock
+H
+hall tree
+hammock
+hassock
+hat stand
+headboard
+highchair
+hope chest
+hutch
+I
+island
+K
+kitchen island
+L
+ladderback chair
+lamp
+lawn chair
+lift chair
+light
+lintel
+lounge chair
+lounger
+love seat
+M
+mantle
+mattress
+mirror
+Murphy bed
+N
+nightstand
+O
+office chair
+ottoman
+P
+pantry
+park bench
+patio chair
+patio table
+pew
+piano bench
+picnic table
+pillow
+porch swing
+R
+rack
+recliner
+rocking chair
+room divider
+rug
+S
+sconce
+screen
+seat
+secretary
+sectional sofa
+settee
+shelf
+shoji screen
+sideboard
+sleeper sofa
+sofa
+sofabed
+stool
+T
+table
+tansu
+tea cart
+throne
+throw rug
+trundle bed
+tuffet
+V
+valet
+vanity
+Venetian blinds
+vitrine
+W
+wardrobe
+waste basket
+waterbed
+window shades
+Windsor chair
+wing chair
+work table
+writing desk
+allspice
+angelica
+anise
+annato
+B
+basil
+bay
+berbere
+borage
+C
+capers
+caraway
+cardamon
+carob
+cayenne pepper
+celery seed
+chervil
+chicory
+chili pepper
+chives
+cicely
+cilantro
+cinnamon
+clove
+coriander
+curry leaf
+D
+dill
+E
+epazote
+F
+fennel
+fenugreek
+filé
+G
+galangal
+garam masala
+garlic
+garlic chives
+ginger
+green onion
+H
+harissa
+horseradish
+hyssop
+J
+jasmine flowers
+jerk spice
+juniper berry
+K
+kaffir lime leaves
+L
+lavender
+lemon balm
+lemon verbena
+licorice
+lovage
+M
+mace
+marjoram
+mint
+mustard seed
+N
+nasturtium
+nutmeg
+O
+onion
+oregano
+P
+paprikaa
+parsley
+pepper
+peppermint
+R
+rosemary
+rue
+S
+saffron
+sage
+salad burnet
+sassafras
+savory
+spearmint
+star anise
+sumac
+T
+tarragon
+thyme
+tumeric
+V
+vanilla
+W
+wasabi
+watercress
+wintergreen
+woodruff
+Y
+yellow mustard
+air conditioner
+alarm clock
+answering machine
+B
+BBQ grill
+barbecue grill
+blender
+blowdryer
+burglar alarm
+C
+calculator
+camera
+can opener
+CD player
+ceiling fan
+cell phone
+clock
+clothes dryer
+clothes washer
+coffee grinder
+coffee maker
+computer
+convection oven
+copier
+crock pot
+curling iron
+D
+dishwasher
+doorbell
+dryer
+E
+edger
+electric blanket
+electric drill
+electric fan
+electric guitar
+electric keyboard
+electric pencil sharpener
+electric razor
+electric toothbrush
+espresso maker
+F
+fan
+fax machine
+fire alarm
+fire extinguisher
+fireplace
+flashlight
+flatscreen TV
+food processor
+freezer
+furnace
+G
+garage door
+garbage disposal
+GPS
+grill
+H
+hair clippers
+hair dryer
+headphones
+heater
+hood
+hot plate
+humidifier
+I
+ice cream maker
+iron
+J
+juice
+K
+kerosene heater
+L
+lamp
+lantern
+laptop
+lawn mower
+leaf blower
+light
+M
+microwave oven
+mixer
+mousetrap
+MP3 player
+O
+oven
+P
+percolator
+pressure cooker
+printer
+R
+radio
+range
+record player
+refrigerator
+rotisserie
+S
+scale
+scanner
+sewing machine
+smoke detector
+stapler
+stereo
+stove
+T
+telephone
+television
+timer
+toaster
+toaster oven
+torch
+trash compactor
+trimmer
+TV
+V
+vacuum cleaner
+vaporizer
+VCR
+video camera
+video game machine
+W
+waffle iron
+walkie-talkie
+washing machine
+watch
+water heater
+alloy
+aluminum
+antimony
+B
+brass
+bronze
+C
+chrome
+chromium
+copper
+cupronickel
+G
+gold
+gunmetal
+I
+iron
+iridium
+L
+lead
+M
+magnesium
+mercury
+metal
+P
+pewter
+platinum
+S
+silver
+stainless steel
+steel
+T
+tin
+titanium
+tungsten
+U
+uranium
+Y
+yellow gold
+Z
+zinc
+academy
+admiral
+advance
+aircraft
+aircraft carrier
+Air Force
+ally
+ammo
+ammunition
+amphibious vehicle
+armistice
+armor
+armored vehicle
+armory
+arms
+army
+arrow
+arsenal
+artillery
+assault
+at ease
+attack
+attention
+B
+ballistic
+barracks
+base
+battalion
+battle
+battlefield
+battery
+battleship
+bayonet
+besiege
+billet
+bivouac
+bomb
+bombard
+bombardment
+bow and arrow
+brig
+brigade
+bullet
+C
+cadet
+camouflage
+camp
+cannon
+cannon ball
+canteen
+captain
+capture
+C cont.
+carrier
+casualty
+catapult
+cavalry
+chaplain
+coast guard
+colonel
+combat
+command
+commander
+commanding officer
+commission
+company
+conflict
+conquest
+conscription
+convoy
+corporal
+corps
+covert
+crew
+D
+decode
+defeat
+defend
+defense
+destroyer
+detonate
+division
+dog tags
+draft
+E
+encampment
+encode
+enemy
+engage
+enlist
+ensign
+epaulet
+evacuate
+explosive
+F
+field hospital
+field marshal
+fight
+fire
+fireteam
+fleet
+flotilla
+force
+front
+F cont.
+formation
+fort
+fortification
+furlough
+G
+garrison
+general
+Geneva Convention
+grenade
+grenade launcher
+grunt
+guerrilla
+gun
+gunner
+gunnery sergeant
+gunpowder
+H
+headquarters
+helmet
+honor
+hospital
+howitzer
+I
+infantry
+injury
+insignia
+intelligence
+invade
+invasion
+J
+jeep
+jet
+K
+kill
+L
+lance corporal
+leave
+lieutenant
+lose
+M
+machete
+major
+marines
+medal
+medic
+M cont.
+maneuver
+marksman
+mess hall
+MIA
+midshipman
+military
+mine
+missile
+mortar
+munition
+musket
+N
+national security
+navy
+neutral
+night-vision goggles
+O
+offense
+officer
+ordnance
+P
+parachute
+paratrooper
+peace
+peace treaty
+pentagon
+petty officer
+plane
+platoon
+post
+POW
+prisoner of war
+private
+PT boat
+Purple Heart
+Q
+quartermaster
+R
+radar
+rank
+reconnoiter
+recruit
+regiment
+rescue
+reserves
+retreat
+ribbon
+rifle
+rocket artillery
+S
+sabotage
+sailor
+salute
+salvo
+seaman
+section
+sergeant
+service
+shell
+shoot
+shot
+siege
+sniper
+soldier
+spear
+specialist
+squad
+squadron
+staff
+star
+stockade
+submarine
+surrender
+T
+tactical
+tactics
+tank
+task force
+theater
+tomahawk
+torpedo
+troops
+truce
+U
+uniform
+unit
+V
+veteran
+volley
+W
+war
+warfare
+warrant officer
+warrior
+weapon
+win
+wound
+Y
+yeoman
+Z
+Zulu time
+abalone
+algae
+amberjack
+anglerfish
+
+B
+barnacle
+barracuda
+barrier reef
+bass
+bivalve
+blowfish
+brittle star
+
+C
+chiton
+clam
+clown fish
+cod
+coelacanth
+conch
+copepod
+coral
+coral reef
+crab
+currents
+cuttlefish
+
+D
+diatoms
+dogfish
+dolphin
+dugong
+
+E
+ebb tide
+eel
+elephant seal
+euphotic zone
+
+F
+fin
+fish
+flounder
+flying fish
+fur seal
+
+G
+gar
+giant squid
+grouper
+gull
+
+H
+hammerhead shark
+harbor seal
+harp seal
+hermit crab
+herring
+horseshoe crab
+humpback whale
+
+I
+intertidal zone
+
+J
+jellyfish
+
+K
+kelp
+kelp forest
+killer whale
+krill
+
+L
+limpet
+littoral zone
+lobster
+loggerhead turtle
+
+M
+mackerel
+mako shark
+manatee
+man-o'-war
+manta ray
+marine biology
+marine life
+megamouth shark
+mollusk
+moray eel
+mullet
+mussels
+
+N
+narwhal
+nautilus
+neap tide
+
+O
+ocean
+octopus
+orca
+otter
+oyster
+
+P
+phytoplankton
+pinniped
+plankton
+pompano
+porpoise
+pufferfish
+
+Q
+queen conch
+
+R
+ray
+reef
+right whale
+
+S
+sailfish
+salinity
+salmon
+salt water
+sand dollar
+scales
+scallop
+school
+sea
+sea anemone
+sea bass
+sea cow
+sea cucumber
+seagrass
+seagull
+seahorse
+seal
+sealion
+sea star
+sea turtle
+sea urchin
+seaweed
+sea worm
+shad
+shark
+shipwreck
+shrimp
+snail
+snapper
+sponge
+squid
+starfish
+stingray
+submarine
+sunfish
+sunlit ocean zone
+swordfish
+
+T
+tarpon
+tide pool
+tides
+tiger shark
+triggerfish
+tsunami
+tuna
+turtle
+
+U
+urchin
+
+W
+walrus
+waves
+whale
+whale shark
+whelk
+whitecaps
+worms
+
+Y
+yellowfin
+
+Z
+zooplankton
+acorn
+agriculture
+alfalfa
+alternate leaves
+angiosperm
+annual
+anther
+apical meristem
+autotroph
+axil
+axilary bud
+B
+bamboo
+bark
+bean
+berry
+biennial
+blade
+blossom
+bromeliad
+botany
+bract
+branch
+brush
+bud
+bulb
+bulbel
+bush
+C
+cactus
+calyx
+canopy
+carpel
+cleft leaf
+clover
+composite flower
+compound leaf
+cone
+cork
+corm
+corolla
+crenate leaf
+D
+deciduous
+dentate leaf
+dicot
+E
+embryo
+emergents
+endosperm
+entire
+epicotyl
+evergreen
+F
+fern
+fertilizer
+filament
+flora
+flower
+foliage
+forest
+frond
+fruit
+G
+garden
+germinate
+ginkgo
+grain
+grass
+grove
+grow
+guard cell
+gum
+H
+hardy
+hastate
+herb
+horsetail
+horticulture
+hybrid
+I
+imperfect flower
+incomplete flower
+inflorescence
+internode
+ivy
+J
+jungle
+juniper
+K
+kapok tree
+kelp
+kudzu
+L
+lamina
+lanceolate leaf
+lateral bud
+leaf
+leaflet
+lead scar
+legume
+lily
+lobed
+M
+margin
+meristem
+midrib
+monocot
+moss
+N
+nectar
+needle
+netted
+node
+nut
+O
+opposite leaves
+ovary
+P
+palm
+palmate
+parted leaf
+peduncle
+perennial
+perfect flower
+petal
+petiole
+petrified wood
+phloem
+photosynthesis
+P cont.
+pinnate
+pistil
+pith
+plumule
+poison ivy
+pollen
+pollinate
+prickle
+pulse
+R
+rachis
+rain forest
+reniform
+resin
+reticulate
+rings
+root
+root cap
+root hairs
+root tip
+rootstock
+S
+sage brush
+sap
+sapling
+sea weed
+seed
+seedling
+seed pod
+sepal
+serrate leaf
+shamrock
+shoot
+shrub
+simple leaf
+soil
+spore
+stand
+stalk
+spine
+sprout
+stamen
+S cont.
+stem
+stigma
+stipule
+stoma
+style
+succulents
+sunlight
+T
+tap root
+terminal bud
+thorn
+toothed
+tree
+tree fern
+trunk
+tuber
+tumbleweeds
+twig
+U
+understory
+undulate leaf margin
+V
+vascular plant
+vegetable
+vegetation
+vein
+venation
+vine
+W
+weed
+whorled
+wood
+woody
+X
+xerophyte
+xylem
+Y
+yucca
+agate
+alexandrite
+amber
+amethyst
+aquamarine
+aventurine
+azurite
+B
+basalt
+beryl
+C
+calcite
+carat
+carnelian
+chalcedony
+citrine
+coal
+coral
+crystal
+D
+density
+diamond
+dolomite
+druze
+E
+emerald
+F
+facet
+feldspar
+fire opal
+fluorite
+fool's gold
+fossil
+G
+garnet
+gem
+gemstone
+geode
+geology
+gneiss
+gold
+granite
+gravel
+gypsum
+H
+hardness
+hematite
+howlite
+I
+igneous rock
+inclusion
+J
+jade
+jadeite
+jasper
+jet
+K
+karat
+kunzite
+L
+labradorite
+lapidary
+lapis lazuli
+lava
+limestone
+lithified
+loess
+luster
+M
+magma
+magnetite
+malachite
+metamorphic rock
+meteoroid
+mica
+mineral
+moonstone
+moss agate
+N
+nephrite
+O
+obsidian
+opal
+orthoclase
+P
+pebble
+peridot
+petrified wood
+pumice
+pyrite
+pyroclastic flow
+Q
+quartz
+R
+rock
+rock cycle
+rose quartz
+ruby
+S
+salt
+sand
+sandstone
+sapphire
+sard
+sardonyx
+schist
+sedimentary rock
+seismograph
+semi-precious
+serpentine
+silica
+silt
+soapstone
+sodalite
+spinel
+stalactite
+stalagmite
+stone
+T
+talc
+talus
+tiger's eye
+topaz
+tourmaline
+tsavorite
+turquoise
+U
+unakite
+V
+vitreous
+volcano
+volcanic bomb
+volcanic glass
+vulcanite
+W
+wairakite
+X
+xalostocite
+xenolith
+xyloid jasper
+Y
+yeatmanite
+Z
+zircon
+zoisite
+answer
+arithmetic
+assignment
+atlas
+B
+backpack
+ballpoint pen
+binder
+blackboard
+book
+bookcase
+bookmark
+C
+calculator
+calendar
+chalk
+chalk board
+class clown
+classroom
+clip board
+colored pencils
+compass
+composition book
+computer
+construction paper
+crayons
+D
+desk
+dictionary
+dividers
+dry-erase board
+E
+easel
+encyclopedia
+english
+eraser
+exam
+examination
+experiment
+F
+file folder
+flash cards
+folder
+G
+gel pen
+geography
+globe
+glossary
+glue
+gluestick
+grades
+gym
+H
+highlighter
+history
+hole punch
+homework
+I
+ink
+intelligent
+K
+keyboard
+L
+language
+laptop
+learn
+lesson
+library
+looseleaf paper
+lunch
+lunch box
+M
+map
+markers
+math
+mathematics
+mechanical pencil
+memo pad
+memorize
+mortar board
+N
+notebook
+P
+pad of paper
+paper
+paper clip
+paper punch
+paste
+pen
+pencil
+pencil pouch
+pencil sharpener
+physical education
+portfolio
+poster paint
+principal
+printer
+project
+protractor
+pupil
+push pin
+Q
+question
+quiz
+R
+reading
+recess
+rubber bands
+ruler
+S
+science
+scissors
+sharpener
+smart
+spiral notebook
+stapler
+staple remover
+student
+T
+tape
+teacher
+test
+thesaurus
+think
+thumb tack
+V
+vocabulary
+W
+watercolors
+whiteboard
+word problems
+word processor
+world map
+writing
+Y
+yardstick
+astrophysics
+astronomy
+atom
+B
+beaker
+biochemistry
+biology
+botany
+Bunsen burner
+burette
+C
+cell
+chemical
+chemistry
+climate
+climatologist
+control
+cuvette
+D
+data
+datum
+E
+electricity
+electrochemist
+element
+energy
+entomology
+evolution
+experiment
+F
+fact
+flask
+fossil
+funnel
+G
+genetics
+geology
+geophysics
+glassware
+graduated cylinder
+gravity
+H
+herpetology
+hypothesis
+I
+ichthyology
+immunology
+L
+lab
+laboratory
+laws
+lepidoptery
+M
+magnetism
+mass
+matter
+measure
+meteorologist
+meteorology
+microbiologist
+microbiology
+microscope
+mineral
+mineralogy
+molecule
+motion
+O
+observe
+observatory
+organism
+ornithology
+P
+paleontology
+particle
+Petri dish
+phase
+physical science
+physics
+pipette
+Q
+quantum mechanics
+R
+radiology
+research
+retort
+S
+scale
+science
+scientist
+seismology
+T
+telescope
+temperature
+test tube
+theory
+thermometer
+tissue
+V
+variable
+virologist
+volcanology
+volume
+volumetric flask
+W
+watch glass
+weather
+weigh
+Z
+zoology
+appliqué
+awl
+B
+backstitch
+baste
+batting
+bias tape
+binding
+blanket stitch
+bobbin
+bolt
+bow
+button
+buttonhole
+C
+chain stitch
+chalk
+cloth
+cotton
+crewel
+crochet
+cross-stitch
+cuff
+cut
+D
+darts
+design
+dress form
+dressmaker
+E
+edging
+elastic
+embroider
+embroidery
+eye
+F
+fabric
+fashion
+fastener
+feed dogs
+frog
+G
+garment
+gather
+grommet
+gusset
+H
+hand stitch
+hem
+hook and eye
+hoop
+I
+inseam
+interfacing
+iron
+J
+join
+K
+knit
+knot
+L
+lace
+linen
+lockstitch
+M
+material
+N
+needle
+needlepoint
+notions
+O
+overhand stitch
+overlock stitch
+P
+patchwork
+patterns
+pin
+pin cushion
+pinking shears
+pleat
+pocket
+project
+Q
+quilt
+R
+ribbon
+rotary cutter
+ruffles
+ruler
+running stitch
+S
+scissors
+seam
+seam allowance
+seam ripper
+seamstress
+selvage
+serger
+sew
+sewing
+sewing machine
+silk
+smocking
+snaps
+spool
+stitch
+styling
+suture
+T
+tack
+tailor
+tape measure
+tat
+textile
+thimble
+thread
+top stitch
+trim
+twill tape
+U
+upholsterer
+upholstery needle
+V
+Velcro
+W
+weave
+woven
+Y
+yardage
+yarn
+yoke
+Z
+zig-zag
+zipper
+acute triangle
+annulus
+arc
+asymmetry
+B
+bipyramid
+C
+cardioid
+circle
+concave polygon
+cone
+convex polygon
+crescent
+cube
+cuboid
+curve
+cylinder
+D
+decagon
+disc
+dodecahedron
+dot
+E
+ellipse
+ellipsoid
+equilateral triangle
+G
+gnomon
+H
+heart
+helix
+heptagon
+hexaflexagon
+hexagon
+hexagonal prism
+hexahedron
+hyperboloid
+hypersphere
+I
+icosahedron
+interval
+isosceles triangle
+K
+kite
+Klein bottle
+L
+line
+line segment
+lozenge
+M
+möbius strip
+N
+nonagon
+O
+obtuse triangle
+octagon
+octahedron
+orb
+oval
+P
+paraboloid
+parallelepiped
+parallelogram
+pentagon
+plane
+Platonic solid
+point
+polygon
+polyhedra
+prism
+pyramid
+Q
+quadrilateral
+R
+ray
+rectangle
+regular polygon
+regular polyhedra
+rhombus
+right triangle
+round
+S
+scalene triangle
+sector
+semicircle
+shape
+shapeless
+sphere
+spheroid
+square
+star
+symmetry
+T
+tetrahedron
+tesseract
+torus
+trapezium
+trapezoid
+triangle
+W
+wedge
+allspice
+angelica
+anise
+annato
+B
+basil
+bay
+berbere
+borage
+C
+capers
+caraway
+cardamon
+carob
+cayenne pepper
+celery seed
+chervil
+chicory
+chili pepper
+chives
+cicely
+cilantro
+cinnamon
+clove
+coriander
+curry leaf
+D
+dill
+E
+epazote
+F
+fennel
+fenugreek
+filé
+G
+galangal
+garam masala
+garlic
+garlic chives
+ginger
+green onion
+H
+harissa
+horseradish
+hyssop
+J
+jasmine flowers
+jerk spice
+juniper berry
+K
+kaffir lime leaves
+L
+lavender
+lemon balm
+lemon verbena
+licorice
+lovage
+M
+mace
+marjoram
+mint
+mustard seed
+N
+nasturtium
+nutmeg
+O
+onion
+oregano
+P
+paprikaa
+parsley
+pepper
+peppermint
+R
+rosemary
+rue
+S
+saffron
+sage
+salad burnet
+sassafras
+savory
+spearmint
+star anise
+sumac
+T
+tarragon
+thyme
+tumeric
+V
+vanilla
+W
+wasabi
+watercress
+wintergreen
+woodruff
+Y
+yellow mustard
+aerobics
+archer
+archery
+arena
+arrow
+athlete
+athletics
+axel
+B
+badminton
+ball
+base
+baseball
+basketball
+bat
+baton
+batter
+batting
+biathlon
+bicycle
+bicycling
+bike
+biking
+billiards
+bobsleigh
+bocce
+boomerang
+boules
+bow
+bowler
+bowling
+boxer
+boxing
+bronze medal
+bunt
+C
+canoe
+canoeing
+catch
+catcher
+champion
+championship
+cleats
+club
+coach
+compete
+competing
+competition
+C cont.
+competitor
+crew
+cricket
+croquet
+cross country
+cue
+curling
+cycle
+cycling
+cyclist
+D
+dart
+dartboard
+deadlifting
+decathlon
+defense
+diamond
+discus
+dive
+diver
+diving
+dodgeball
+doubleheader
+dugout
+E
+epee
+equestrian
+equipment
+exercise
+F
+fencing
+field
+fielder
+field hockey
+fielding
+figure skating
+fitness
+football
+forward
+free throw
+frisbee
+G
+game
+gear
+geocaching
+go
+goal
+goalie
+gold medal
+G Cont.
+golf
+golfer
+golfing
+guard
+gym
+gymnast
+gymnastics
+gymnasium
+H
+halftime
+hammer throw
+handball
+hang gliding
+hardball
+helmet
+heptathlon
+high jump
+hitter
+hockey
+hole-in-one
+home
+home plate
+home run
+home team
+hoop
+horseshoes
+huddle
+hurdle
+I
+ice hockey
+ice rink
+ice skates
+ice skating
+infield
+infielder
+inline skates
+inning
+J
+jai-alai
+javelin
+jog
+jogger
+judo
+jump
+jumper
+jumping
+jump rope
+K
+karate
+kayak
+kayaker
+kayaking
+kickball
+kneepads
+king fu
+kite
+L
+lacrosse
+lawn bowling
+league
+long jump
+lose
+loser
+luge
+lutz
+M
+major league
+mallet
+martial arts
+mat
+medal
+minor league
+mitt
+mouthguard
+move
+movement
+MVP
+N
+net
+no-hitter
+Nordic skiing
+O
+offense
+ollie
+Olympics
+orienteering
+out
+outfield
+outfielder
+P
+paddle
+paddleball
+paddling
+paintball
+parasailing
+parkour
+P Cont.
+pentathlon
+pickleball
+ping pong
+pitch
+pitcher
+play
+player
+playing
+playoffs
+pogo stick
+pole
+pole vault
+polo
+pool
+puck
+Q
+quarter
+quarterback
+quiver
+R
+race
+racer
+racewalking
+racing
+racket
+racquetball
+rafting
+referee
+relay
+ride
+riding
+rink
+rock climbing
+roller skates
+roller skating
+row
+rower
+rowing
+rugby
+run
+runner
+running
+S
+sailing
+score
+scoreboard
+scuba
+scull
+S Cont.
+sculling
+shortstop
+shot put
+silver medal
+skate
+skating rink
+skeleton
+ski
+skier
+skiing
+slalom
+sled
+sledder
+sledding
+snorkling
+snowboard
+snowboarder
+snowboarding
+snowshoeing
+soccer
+softball
+somersault
+speed skating
+sport
+sportsmanship
+squash
+stadium
+stick
+strike
+stroke
+Sumo wrestling
+surfer
+surfing
+swim
+swimmer
+swimming
+synchronized swimming
+T
+table tennis
+taekwondo
+tag
+target
+team
+teammate
+tee
+telemark skiing
+tennis
+tetherball
+throw
+T Cont.
+throwing
+tie
+toboggan
+track and field
+trampoline
+triathlon
+triathlete
+triple jump
+triple play
+tug of war
+U
+ultramarathon
+ultramarathoner
+umpire
+unicycle
+unicyclist
+uniform
+V
+vault
+vaulter
+vaulting
+visiting team
+volley
+volley ball
+W
+wakeboarding
+walk
+walker
+walking
+water polo
+waterski
+waterskier
+waterskiing
+weightlifter
+weightlifting
+weights
+wetsuit
+white water rafting
+wicket
+win
+windsurfer
+windsurfing
+winner
+winning
+World Cup
+World Series
+wrestler
+wrestling
+adze
+allen wrench
+anvil
+axe
+B
+bellows
+bevel
+block and tackle
+block plane
+bolt
+bolt cutter
+brad
+brush
+C
+calipers
+carpenter
+chalk line
+chisel
+circular saw
+clamp
+clippers
+coping saw
+countersink
+crowbar
+cutters
+D
+drill
+drill bit
+drill press
+E
+edger
+electric drill
+F
+fastener
+G
+glass cutter
+glue
+glue gun
+grinder
+H
+hacksaw
+handsaw
+hex wrench
+hoe
+hammer
+hone
+J
+jig
+jigsaw
+K
+knife
+L
+ladder
+lathe
+level
+lever
+M
+machete
+mallet
+measuring tape
+miter box
+monkey wrench
+N
+nail
+nail set
+needle-nose pliers
+nut
+P
+Phillips screwdriver
+pickaxe
+pin
+pincer
+pitchfork
+plane
+pliers
+plow
+plumb bob
+poker
+pry bar
+pulley
+pinch
+pruning shears
+putty knife
+R
+rasp
+ratchet
+razor
+reamer
+rivet
+roller
+rope
+router
+ruler
+S
+safety glasses
+sander
+sand paper
+saw
+sawhorse
+scalpel
+scissors
+scraper
+S cont.
+screw
+screwdriver
+scythe
+sharpener
+shovel
+sickle
+snips
+spade
+spear
+sponge
+square
+squeegee
+staple
+stapler
+T
+tack
+tiller
+tongs
+toolbox
+toolmaker
+torch
+trowel
+U
+utility knife
+V
+vise
+W
+wedge
+wheel
+woodworker
+workbench
+wrench
+almond
+apple
+apricot
+ash
+aspen
+B
+baobob
+banyan
+bark
+beech
+black ash
+black willow
+bigtooth aspen
+birch
+bodhi
+bristlecone pine
+buckeye
+butternut
+C
+cabbage palmetto
+camellia
+catalpa
+cedar
+cherry
+chestnut
+choke cherry
+coconut palm
+cone
+cottonwood
+crape myrtle
+crabapple
+cypress
+D
+date
+dogwood
+Douglas fir
+E
+elderberry
+elm
+eucalyptus
+evergreen
+F
+fig
+filbert
+fir
+flame tree
+forest
+G
+ginkgo
+goldenlarch
+grapefruit
+grove
+gum
+H
+hackberry
+haw
+hawthorn
+hemlock
+hickory
+holly
+honeylocust
+I
+ipil
+ironwood
+J
+jack pine
+jacktree
+Japanese maple
+jujuba
+jungle
+juniper
+K
+kapok tree
+katsura
+kukui nut
+kumquat
+L
+larch
+lilac
+linden
+live oak
+loblolly pine
+locust
+loquat
+lone pine
+longleaf pine
+M
+magnolia
+mahogany
+mangrove
+maple
+mimosa
+mountainash
+N
+nectarine
+northern red oak
+Norway maple
+O
+oak
+olive
+orange
+P
+paper birch
+palm
+palmetto
+pawpaw
+peach
+pear
+pecan
+persimmon
+pine
+piñon pine
+plum
+poplar
+Q
+quaking aspen
+quince
+R
+rain forest
+redbud
+redwood
+rings
+rubber tree
+S
+sassafras
+Scotch pine
+sequoia
+serviceberry
+silver maple
+Sitka spruce
+slippery elm
+spruce
+sugar maple
+sweetgum
+sycamore
+T
+teak
+tree
+tulip-tree
+tupelo
+U
+upright red maple
+V
+viburnum
+W
+walnut
+weeping willow
+white ash
+white oak
+white pine
+willow
+wingnut
+witchhazel
+Y
+yellowwood
+yew
+Z
+zebrawood
+zelkova
+aerial tramway
+aircraft
+aircraft carrier
+airplane
+ambulance
+amphibious vehicle
+armored car
+auto
+automobile
+
+B
+baby carriage
+balloon
+bathyscaphe
+barge
+barrow
+battleship
+bicycle
+bike
+biplane
+blimp
+boat
+bobsled
+bomber
+boxcar
+broomstick
+buggy
+bulldozer
+bullet train
+bus
+
+C
+cab
+cabin cruiser
+cable car
+caboose
+camper
+canoe
+car
+caravan
+caravel
+cargo ship
+carriage
+carrier
+cart
+catamaran
+chairlift
+chariot
+chopper
+clipper ship
+clunker
+coach
+compact car
+combine
+compact car
+Conestoga wagon
+container ship
+convertible
+conveyance
+conveyor belt
+convoy
+coupe
+covered wagon
+crane
+crop duster
+cruise ship
+cruiser
+cutter
+cycle
+
+D
+delivery truck
+delivery van
+destroyer
+diesel truck
+dinghy
+dirigible
+dirt bike
+diving bell
+dog cart
+dogsled
+donkey cart
+dray
+driver
+dugout canoe
+dump truck
+
+E
+earth mover
+eighteen-wheeler
+electric car
+elevated railroad
+elevator
+engine
+escalator
+express train
+
+F
+ferry
+fireboat
+fire engine
+fishing boat
+flatbed truck
+forklift
+four-door
+four-wheel drive
+four-by-four
+freighter
+freight train
+frigate
+funicular railway
+
+G
+galleon
+garbage truck
+glider
+go-cart
+golf cart
+gondola
+gondola lift
+gridlock
+
+H
+handcar
+hang glider
+hansom cab
+hardtop
+harvester
+hatchback
+haul
+hay wagon
+hearse
+helicopter
+hook and ladder truck
+hovercraft
+hot-air balloon
+hot rod
+houseboat
+hull
+humvee
+hybrid
+hydrofoil
+hydroplane
+
+I
+ice boat
+ice breaker
+
+J
+jalopy
+jeep
+jet
+jet boat
+jetliner
+journey
+jet pack
+jet ski
+jumbo jet
+junk
+
+K
+kayak
+ketch
+
+L
+landing craft
+lifeboat
+life raft
+light rail
+limo
+limousine
+litter
+locomotive
+lorry
+low-rider
+
+M
+magic carpet
+maglev
+mast
+minesweeper
+minibus
+minivan
+model T
+monorail
+moped
+motor
+motorcar
+motorboat
+motorcycle
+motor home
+mountain bike
+
+N
+narrowboat
+
+O
+oar
+ocean liner
+off-road vehicle
+oil tanker
+outboard motor
+outrigger canoe
+oxcart
+
+P
+paddle
+paddlewheeler
+parachute
+passenger
+patrol car
+pedal boat
+pickup truck
+pilot
+plane
+police car
+power boat
+prairie schooner
+propeller
+PT boat
+pumper truck
+punt
+push cart
+
+R
+racecar
+racing car
+raft
+ragtop
+railroad
+railway
+rapid transit
+recreational vehicle
+rickshaw
+ride
+riverboat
+roadster
+rocket
+rover
+rowboat
+rudder
+runabout
+RV
+
+S
+sail
+sailboat
+satellite
+school bus
+schooner
+scooter
+scull
+seaplane
+sedan
+sedan chair
+Segway
+semi
+ship
+shuttle
+side wheeler
+skiff
+ski lift
+ski tow
+sled
+sledge
+sleigh
+snow cat
+snowmobile
+snowplow
+spaceship
+space shuttle
+speedboat
+sports car
+sport-utility vehicle/SUV
+squad car
+SST
+stagecoach
+station wagon
+steamboat
+steamship
+stretch limo
+stock car
+stroller
+subcompact
+submarine
+submersible
+subway
+surrey
+SUV
+
+T
+tank
+tanker
+taxi
+taxicab
+T-bar lift
+thresher
+tire
+toboggan
+town car
+tow truck
+tracks
+tractor
+tractor-trailer
+trail bike
+trailer
+train
+tram
+tramway
+transit
+trawler
+tricycle
+trolley
+truck
+tugboat
+two-door
+
+U
+U-boat
+ultralight craft
+umiak
+unicycle
+
+V
+van
+vehicle
+vespa
+vessel
+
+W
+wagon
+warship
+wheel
+wheelbarrow
+wheelchair
+windjammer
+windshield
+wreck
+
+Y
+yacht
+yawl
+
+Z
+Zamboni
+zeppelin
+auto
+automobile
+B
+buggy
+C
+car
+cloth-top
+compact
+convertible
+coupe
+cruiser
+D
+dragster
+E
+electric car
+F
+four-door
+four-wheel drive
+G
+gas powered
+gas-electric
+H
+hard top
+hatchback
+hearse
+hot rod
+hum-vee
+hybrid
+jeep
+L
+limo
+limousine
+low-rider
+luxury car
+M
+minivan
+O
+off-road vehicle
+P
+patrol car
+R
+race car
+ragtop
+roadster
+rotary engine
+runabout
+RV
+S
+sedan
+soft-top
+solar powered
+sports car
+sports utility vehicle
+station wagon
+stock car
+stretch limo
+subcompact
+SUV
+T
+taxi
+taxi cab
+two-door
+V
+van
+acorn squash
+alfalfa
+artichoke
+arugula
+asparagus
+avocado
+B
+bamboo shoots
+basil
+beans
+beets
+bell pepper
+black-eyed peas
+broccoli
+Brussels sprouts
+C
+capers
+carrot
+cauliflower
+celeriac
+celery
+chard
+chick peas
+Chinese cabbage
+chives
+collard greens
+cress
+cucumber
+D
+daikon
+dandelion greens
+E
+eggplant
+endive
+F
+fava bean
+fennel
+G
+garlic
+ginger
+gourd
+greenbean
+greens
+H
+hot chile peppers
+I
+iceberg lettuce
+J
+jicama
+K
+kale
+kohlrabi
+L
+leek
+lentils
+lettuce
+Lima bean
+M
+maize
+mung bean
+mushroom
+mustard greens
+O
+okra
+olive
+onion
+P
+parsley
+parsnip
+pattypan squash
+pea
+peapod
+peanut
+peppers
+pickle
+potato
+pumpkin
+R
+radicchio
+radish
+rhubarb
+rocket
+romaine
+rutabaga
+S
+salad
+salsa
+scallion
+seaweed
+shallot
+sorrel
+soybean
+spinach
+sprouts
+S cont.
+salsify
+spuds
+squash
+string bean
+succotash
+sweet potato
+Swiss chard
+T
+taro
+tomatillo
+tomato
+tuber
+turnip
+V
+vegetable
+W
+wasabi
+water chestnut
+watercress
+Y
+yam
+Z
+zucchini
+acquit
+affidavit
+aid and abet
+allegation
+appeal
+appearance
+argument
+arrest
+assault
+attorney
+B
+bail
+bail bond
+bailiff
+bankrupt
+bankruptcy
+bar
+bar exam
+bench warrant
+bond
+booking
+burden of proof
+C
+capital crime
+case
+case law
+chambers
+claim
+circumstantial evidence
+complainant
+complaint
+confess
+confession
+constitution
+constitutional law
+contract
+continuance
+counsel
+court
+crime
+criminal
+cross-examination
+custody
+D
+damages
+decree
+defendant
+defense
+deposition
+disbarment
+discovery
+docket
+due process
+E
+entrapment
+equity
+escrow
+estate
+ethics
+evidence
+examination
+exonerate
+expunge
+F
+family law
+felony
+fiduciary
+file
+fraud
+G
+grand jury
+grievance
+guardian
+guardianship
+guilty
+H
+habeas corpus
+hearing
+hearsay
+hung jury
+I
+immunity
+incarceration
+incompetent
+indictment
+infraction
+injunction
+innocent
+instructions
+J
+jail
+judge
+judiciary
+jurisdiction
+jurisprudence
+jury
+justice
+L
+larceny
+law
+lawsuit
+lawyer
+legal
+legislation
+leniency
+liable
+lien
+litigant
+litigation
+M
+manslaughter
+marshal
+mediation
+minor
+misdemeanor
+mistrial
+moot
+murder
+N
+negligence
+O
+oath
+objection
+opinion
+order
+ordinance
+overrule
+P
+paralegal
+pardon
+parole
+party
+perjury
+petition
+plaintiff
+plea
+plea bargain
+power of attorney
+precedent
+preliminary hearing
+prison
+probable cause
+probate
+probation
+prosecute
+prosecutor
+proxy
+R
+reasonable doubt
+rebut
+record
+re-direct
+redress
+rejoinder
+resolution
+reverse
+revoke
+robbery
+rules
+S
+search warrant
+self-defense
+sentence
+sequester
+settlement
+sheriff
+sidebar
+standing
+state
+statute
+stay
+subpoena
+summary judgment
+suit
+suppress
+sustain
+T
+testimony
+theft
+title
+tort
+transcript
+trial
+trust
+trustee
+U
+usury
+V
+vacate
+venue
+verdict
+voir dire
+W
+waiver
+warrant
+will
+witness
+writ
+Z
+zoning
+A
+acrobat
+admission
+amusement park
+animals
+applaud
+attractions
+audience
+B
+balancing act
+balloons
+band
+banner
+bear
+bicycle
+big top
+booth
+bow
+bumper cars
+C
+cage
+calliope
+candy
+cannon
+cape
+carnival
+carousel
+cashier
+clown
+corn dog
+costume
+cotton candy
+county fair
+D
+dog
+E
+elephant
+entertain
+entertainer
+exhibition
+F
+fair
+fairground
+feat
+ferris wheel
+festival
+festive
+fire breather
+fire eater
+fun
+fun house
+G
+games
+giant
+grandstand
+gymnast
+H
+hoop
+horse
+house of mirrors
+human cannonball
+J
+juggler
+K
+knife thrower
+L
+leotard
+lion
+lion tamer
+livestock
+log flume
+M
+magic
+magician
+maze
+merry-go-round
+monkey
+music
+N
+net
+P
+parade
+performer
+petting zoo
+popcorn
+poster
+prizes
+R
+ride
+ring
+ring toss
+ringmaster
+roller coaster
+S
+seal
+show
+side show
+somersault
+spectator
+spinning plates
+star
+state fair
+stagehand
+stilts
+strong man
+stuffed animals
+swag
+swing
+sword swallower
+T
+tent
+thrill ride
+ticket
+tiger
+tightrope
+tightrope walker
+top hat
+train
+trainer
+trampoline
+trapeze
+trapeze artist
+trick
+troupe
+trunk
+U
+unicycle
+V
+vanishing act
+W
+water park
+whip
+abode
+adobe house
+A-frame
+apartment
+attached house
+B
+barracks
+beach house
+boarding house
+brownstone
+building
+bungalow
+bunkhouse
+C
+cabin
+caravan
+castle
+chalet
+chateau
+condo
+condominium
+co-op
+cottage
+country house
+crib
+D
+dacha
+detached house
+domicile
+dorm
+dormitory
+double-wide
+duplex
+dwelling
+E
+earth-sheltered house
+efficiency apartment
+estate
+F
+farmhouse
+flat
+G
+gabled house
+guest house
+H
+hacienda
+hall
+high-rise home
+hotel
+house
+houseboat
+household
+house trailer
+housing project
+hunting lodge
+hut
+I
+igloo
+inn
+L
+lean-to
+living quarters
+lodge
+lodging
+loft
+log cabin
+longhouse
+M
+maisonette
+manor
+mansion
+microapartment
+mobile home
+motel
+P
+palace
+penthouse
+pied-á-terre
+primary residence
+pup tent
+Q
+quarters
+R
+ranch house
+real estate
+residence
+residential hall
+rooming house
+roundhouse
+row house
+S
+saltbox
+shack
+shelter
+skyscraper
+split-level house
+studio apartment
+suite
+summer house
+T
+tepee
+tenement
+tent
+terraced house
+tipi
+townhouse
+tract house
+trailer home
+treehouse
+triplex
+tudor
+U
+unit
+V
+vacation house
+villa
+W
+wickiup
+wigwam
+Y
+yaodong
+yurt
+
+
+

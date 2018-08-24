@@ -1,0 +1,869 @@
+albedo
+Alpha Centauri
+apastron
+aperature
+aphelion
+apogee
+asterism
+asteroid
+astronaut
+astronomer
+astronomical unit
+astronomy
+axial tilt
+azimuth
+B
+background radiation
+Bailey's beads
+big bang theory
+binary star
+black body
+black hole
+bolometer
+C
+celestial
+celestial equator
+cislunar
+cluster
+comet
+conjunction
+constellation
+coriolis force
+cosmic rays
+corona
+cosmology
+cosmonaut
+cosmos
+crater
+crescent moon
+D
+dark matter
+day
+declination
+deep space
+Deneb
+density
+docking
+Doppler shift
+double star
+Drake equation
+dust
+dwarf planet
+dwarf star
+E
+Earth
+earthbound
+eccentricity
+eclipse
+ecliptic
+elliptical orbit
+equinox
+escape velocity
+event horizon
+exoplanet
+extragalaxtic
+F
+falling star
+flare
+flyby
+free fall
+full moon
+G
+galaxy
+gamma ray
+gas giant
+gegenschein
+geostationary
+geosynchronous
+gibbous moon
+globular cluster
+gravitation
+gravitational constant
+gravitational lens
+gravity
+H
+half moon
+heliocentric
+hydrogen
+helium
+H-R diagram
+Hubble telescope
+Hubble's law
+hyperbolic orbit
+hypernova
+I
+ice giant
+inclination
+inertia
+inferior planets
+inner planets
+interstellar
+interstellar dust
+ionosphere
+J
+Jupiter
+K
+Kepler's laws
+kiloparsec
+Kirkwood gaps
+Kuiper belt
+L
+Lagrange points
+lens
+light-year
+local arm
+local group
+lunar
+M
+magnitude
+mare
+Mars
+mass
+Mercury
+meteor
+meteor shower
+meteorite
+meteoroid
+Milky Way
+minor planet
+Mir
+moon
+muttnik
+N
+nadir
+NASA
+nebula
+Neptune
+neutron star
+new moon
+north star
+nova
+O
+observatory
+occultation
+Oort cloud
+opposition
+orbit
+orbital eccentricity
+orbital inclination
+outer planets
+P
+parallax
+parsec
+partial eclipse
+penumbra
+perigee
+perihelion
+perturbation
+phase
+plane of the ecliptic
+planet
+planetary nebula
+planetoid
+Pluto
+pole star
+precession
+probe
+pulsar
+Q
+quarter moon
+quasar
+R
+radiant
+radiation
+red dwarf
+red giant star
+red shift
+revolve
+right ascension
+rings
+Roche limit
+rocket
+S
+satellite
+Saturn
+scientific notation
+scintillation
+shooting star
+solar
+sidereal
+singularity
+sky
+solar
+solar system
+solar wind
+solstice
+space
+space exploration
+space station
+spectroscope
+S cont.
+spectrum
+Sputnik
+star
+starlight
+sun
+sunspot
+superior planets
+supernova
+synodic
+syzygy
+T
+telemetry
+telescope
+terminator
+terrestrial
+total eclipse
+totality
+transit
+translunar
+transneptunians
+twinkling
+U
+umbra
+universe
+Uranus
+V
+vacuum
+Van Allen belt
+variable star
+Venus
+vernal equinox
+visual magnitude
+W
+waning
+wavelength
+waxing
+weightlessness
+white dwarf
+white giant
+wormhole
+X
+x-rays
+y
+yellow dwarf
+Z
+zenith
+zodiac
+amber
+amethyst
+apricot
+aqua
+aquamarine
+auburn
+azure
+B
+beige
+black
+blue
+bronze
+brown
+buff
+burnt umber
+C
+cardinal
+carmine
+celadon
+cerise
+cerulean
+charcoal
+chartreuse
+chocolate
+cinnamon
+color
+complementary
+copper
+coral
+cream
+crimson
+cyan
+D
+dark
+denim
+desert sand
+
+E
+ebony
+ecru
+eggplant
+emerald
+F
+forest green
+fuchsia
+G
+gold
+goldenrod
+gray
+green
+grey
+H
+hot pink
+hue
+I
+indigo
+ivory
+J
+jade
+jet
+jungle green
+K
+kelly green
+khaki
+L
+lavender
+lemon
+light
+lilac
+lime
+M
+magenta
+mahogany
+maroon
+mauve
+mustard
+N
+navy blue
+O
+ocher
+olive
+orange
+orchid
+P
+pale
+pastel
+peach
+periwinkle
+persimmon
+pewter
+pink
+primary
+puce
+pumpkin
+purple
+R
+rainbow
+red
+rose
+ruby
+russet
+rust
+S
+saffron
+salmon
+sapphire
+scarlet
+sea green
+secondary
+sepia
+shade
+shamrock
+sienna
+silver
+spectrum
+slate
+steel blue
+T
+tan
+tangerine
+taupe
+teal
+terracotta
+thistle
+tint
+tomato
+topaz
+turquoise
+U
+ultramarine
+umber
+V
+vermilion
+violet
+viridian
+W
+wheat
+white
+wisteria
+Y
+yellow
+Actinium (Ac)
+Aluminum Americium (Am)
+Antimony (Sb)
+Argon (Ar)
+B
+Barium (Ba)
+Berkelium (Bk)
+Beryllium (Be)
+Bismuth (Bi)
+Bohrium (Bh)
+Boron (B)
+Bromine (Br)
+C
+Cadmium (Cd)
+Calcium (Ca)
+Californium (Cf)
+Carbon (C)
+Cerium (Ce)
+Cesium (Cs)
+Chlorine (Cl)
+Chromine (Cr)
+Cobalt (Co)
+Copper (Cu)
+Curium (Cm)
+D
+Darmstadtium (Ds)
+Dubnium (Db)
+Dysprosium (Dy)
+E
+Einsteinium (Es)
+Erbium (Er)
+Europium (Eu)
+F
+Fermuim (Fm)
+Fluorine (F)
+Francium (Fr)
+G
+Gadolinium (Gd)
+Gallium (Ga)
+Germanium (Ge)
+Gold (Au)
+H
+Hafnium (Hf)
+Hassium (Hs)
+Helium (He)
+Holmium (Ho)
+Hydrogen (H)
+I
+Indium (In)
+Iodine (I)
+Iridium (Ir)
+Iron (Fe)
+K
+Krypton (Kr)
+L
+Lanthanum (La)
+Lawrencium (Lr)
+Lead (Pb)
+Lithium (Li)
+Lutetium (Lu)
+M
+Magnesium (Mg)
+Manganese (Mn)
+Meitnerium (Mt)
+Mendelevium ()
+Mercury (Hg)
+Molybdenum (Mo)
+N
+Neodymium (Nd)
+Neon (Ne)
+Neptunium (Np)
+Nickel (Ni)
+Niobium (Nb)
+Nitrogen (N)
+Nobellium (No)
+O
+Osmium (Os)
+Oxygen (O)
+P
+Palladium (Pd)
+Phosphorus (P)
+Platinum (Pt)
+Plutonium (Pu)
+Polonium (Po)
+Potassium (K)
+Praseodymium (Pr)
+Promethium (Pm)
+Protactinium (Pa)
+R
+Radium (Ra)
+Radon (Rn)
+Rhenium (Re)
+Rhodium (Rh)
+Rubidium (Rh)
+Ruthenium (Ru)
+Rutherfordium (Rf)
+S
+Samarium (Sm)
+Scandium (Sc)
+Seaborgium (Sg)
+Selenium (Se)
+Silicon (Si)
+Silver (Ag)
+Sodium (Na)
+Strontium (Sr)
+Sulfur (S)
+T
+Tantalum (Ta)
+Technetium (Tc)
+Tellurium (Te)
+Terbium (Tb)
+Thallium (Tl)
+Thorium (Th)
+Thulium (Tm)
+Tin (Sn)
+Titanium (Ti)
+Tungsten (W)
+U
+Ununbium (Uub)
+Ununhexium (Uuh)
+Ununoctium (Uuo)
+Ununpentium (Uup)
+Ununquadium (Uuq)
+Ununseptium (Uus)
+Ununtrium (Uut)
+Ununium (Uuu)
+Uranium (U)
+V
+Vanadium (V)
+W
+Xenon (Xe)
+Y
+Ytterbium (Yb)
+Yttrium (Y)
+Z
+Zinc (Zn)
+Zirconium (Zr)
+alloy
+aluminum
+antimony
+B
+brass
+bronze
+C
+chrome
+chromium
+copper
+cupronickel
+G
+gold
+gunmetal
+I
+iron
+iridium
+L
+lead
+M
+magnesium
+mercury
+metal
+P
+pewter
+platinum
+S
+silver
+stainless steel
+steel
+T
+tin
+titanium
+tungsten
+U
+uranium
+Y
+yellow gold
+Z
+zinc
+agate
+alexandrite
+amber
+amethyst
+aquamarine
+aventurine
+azurite
+B
+basalt
+beryl
+C
+calcite
+carat
+carnelian
+chalcedony
+citrine
+coal
+coral
+crystal
+D
+density
+diamond
+dolomite
+druze
+E
+emerald
+F
+facet
+feldspar
+fire opal
+fluorite
+fool's gold
+fossil
+G
+garnet
+gem
+gemstone
+geode
+geology
+gneiss
+gold
+granite
+gravel
+gypsum
+H
+hardness
+hematite
+howlite
+I
+igneous rock
+inclusion
+J
+jade
+jadeite
+jasper
+jet
+K
+karat
+kunzite
+L
+labradorite
+lapidary
+lapis lazuli
+lava
+limestone
+lithified
+loess
+luster
+M
+magma
+magnetite
+malachite
+metamorphic rock
+meteoroid
+mica
+mineral
+moonstone
+moss agate
+N
+nephrite
+O
+obsidian
+opal
+orthoclase
+P
+pebble
+peridot
+petrified wood
+pumice
+pyrite
+pyroclastic flow
+Q
+quartz
+R
+rock
+rock cycle
+rose quartz
+ruby
+S
+salt
+sand
+sandstone
+sapphire
+sard
+sardonyx
+schist
+sedimentary rock
+seismograph
+semi-precious
+serpentine
+silica
+silt
+soapstone
+sodalite
+spinel
+stalactite
+stalagmite
+stone
+T
+talc
+talus
+tiger's eye
+topaz
+tourmaline
+tsavorite
+turquoise
+U
+unakite
+V
+vitreous
+volcano
+volcanic bomb
+volcanic glass
+vulcanite
+W
+wairakite
+X
+xalostocite
+xenolith
+xyloid jasper
+Y
+yeatmanite
+Z
+zircon
+zoisite
+almond
+apple
+apricot
+ash
+aspen
+B
+baobob
+banyan
+bark
+beech
+black ash
+black willow
+bigtooth aspen
+birch
+bodhi
+bristlecone pine
+buckeye
+butternut
+C
+cabbage palmetto
+camellia
+catalpa
+cedar
+cherry
+chestnut
+choke cherry
+coconut palm
+cone
+cottonwood
+crape myrtle
+crabapple
+cypress
+D
+date
+dogwood
+Douglas fir
+E
+elderberry
+elm
+eucalyptus
+evergreen
+F
+fig
+filbert
+fir
+flame tree
+forest
+G
+ginkgo
+goldenlarch
+grapefruit
+grove
+gum
+H
+hackberry
+haw
+hawthorn
+hemlock
+hickory
+holly
+honeylocust
+I
+ipil
+ironwood
+J
+jack pine
+jacktree
+Japanese maple
+jujuba
+jungle
+juniper
+K
+kapok tree
+katsura
+kukui nut
+kumquat
+L
+larch
+lilac
+linden
+live oak
+loblolly pine
+locust
+loquat
+lone pine
+longleaf pine
+M
+magnolia
+mahogany
+mangrove
+maple
+mimosa
+mountainash
+N
+nectarine
+northern red oak
+Norway maple
+O
+oak
+olive
+orange
+P
+paper birch
+palm
+palmetto
+pawpaw
+peach
+pear
+pecan
+persimmon
+pine
+piñon pine
+plum
+poplar
+Q
+quaking aspen
+quince
+R
+rain forest
+redbud
+redwood
+rings
+rubber tree
+S
+sassafras
+Scotch pine
+sequoia
+serviceberry
+silver maple
+Sitka spruce
+slippery elm
+spruce
+sugar maple
+sweetgum
+sycamore
+T
+teak
+tree
+tulip-tree
+tupelo
+U
+upright red maple
+V
+viburnum
+W
+walnut
+weeping willow
+white ash
+white oak
+white pine
+willow
+wingnut
+witchhazel
+Y
+yellowwood
+yew
+Z
+zebrawood
+zelkova
